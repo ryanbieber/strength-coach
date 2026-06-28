@@ -11,6 +11,6 @@
 - Keep exercise choices stable long enough to track progress.
 
 ## Contest Prep
-- Increase specificity as the meet approaches.
+- Increase specificity as the meet approaches and keep the competition lifts in the center of the plan.
 - Reduce accessory volume before the taper.
 - Practice opener and attempt selection before meet week.

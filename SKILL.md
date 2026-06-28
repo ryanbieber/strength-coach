@@ -22,6 +22,7 @@ Use this skill to turn an athlete's goal, equipment, and timeline into a concret
 - For bodybuilding, prioritize tension, volume landmarks, exercise order, and joint-friendly execution.
 - For weightlifting, preserve positions, speed under the bar, and the receiving positions of the competition lifts.
 - For strongman, program implements, carries, loads, and medleys instead of barbell-only substitutes.
+- During peaking, keep sport specificity high: use the contest implement for strongman when possible, keep competition lifts central for powerlifting and weightlifting, and bias lagging muscle groups for bodybuilding.
 
 ## Output Format
 - Write programs and workouts in Markdown.

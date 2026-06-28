@@ -23,6 +23,11 @@
 - Peaking usually means less volume, more intensity, and more specificity.
 - Keep the main lift pattern in place.
 - Cut accessory volume first.
+- Match the peaking strategy to the sport:
+  - strongman: train the contest implement as much as possible
+  - powerlifting: keep the squat, bench, and deadlift as the focus
+  - weightlifting: keep the snatch and clean and jerk as the focus
+  - bodybuilding: bias the lagging muscle groups and reduce unnecessary fatigue
 - Use heavier sets with fewer reps so the athlete can express strength without accumulating too much fatigue.
 - A common pattern is to move from moderate-rep work to singles, doubles, and triples as the event approaches.
 

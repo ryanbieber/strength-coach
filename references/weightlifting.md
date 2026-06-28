@@ -11,6 +11,6 @@
 - Keep technical lifts fresh enough to maintain quality.
 
 ## Contest Prep
-- Keep the competition lifts in the plan.
+- Keep the competition lifts in the plan and use the classic lifts as the main peaking focus.
 - Reduce noisy variations as the meet approaches.
 - Rehearse attempts and opening weights before tapering.

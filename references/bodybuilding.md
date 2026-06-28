@@ -12,5 +12,6 @@
 
 ## Contest Prep
 - Reduce uncertainty and keep execution stable.
-- Trim accessory volume as the show approaches.
+- Put more emphasis on lagging or less-developed muscle groups during prep.
+- Trim accessory volume as the show approaches, but keep enough work for the muscles that need the most attention.
 - Preserve enough recovery to keep training quality high.
