@@ -15,7 +15,8 @@ This skill is self-contained.
 3. `references/general-strength.md`
 4. Sport-specific reference files in `references/`
 5. `templates/index.md`
-6. Template files in `templates/`
+6. Archetype folder indexes in `templates/<archetype>/index.md`
+7. Template files in `templates/<archetype>/`
 
 ## Template use
 - Treat the templates as ingested archetypes.

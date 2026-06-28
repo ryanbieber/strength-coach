@@ -18,3 +18,10 @@
 - Keep the competition lifts in the plan.
 - Use variations only when they improve positions, speed, or receiving strength.
 - Reduce noisy variations as the peak approaches.
+
+## Library
+- [weightlifting-classic-cycle.md](weightlifting-classic-cycle.md)
+- [bulgarian-inspired.md](bulgarian-inspired.md)
+- [russian-classic-cycle.md](russian-classic-cycle.md)
+- [chinese-block-cycle.md](chinese-block-cycle.md)
+- [weightlifting-peak-block.md](weightlifting-peak-block.md)

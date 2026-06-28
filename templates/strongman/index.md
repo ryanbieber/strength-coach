@@ -19,3 +19,11 @@
 - If the exact implement is available, use it.
 - If not, simulate loading position, range of motion, grip, duration, and fatigue as closely as possible.
 - Keep the block narrow as the show approaches.
+
+## Library
+- [strongman-contest-prep.md](strongman-contest-prep.md)
+- [strongman-off-season-base.md](strongman-off-season-base.md)
+- [strongman-press-focus.md](strongman-press-focus.md)
+- [strongman-deadlift-focus.md](strongman-deadlift-focus.md)
+- [strongman-medley-block.md](strongman-medley-block.md)
+- [five-three-one-strongman.md](five-three-one-strongman.md)
