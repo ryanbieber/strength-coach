@@ -64,6 +64,12 @@ Consult [references/strength-coach-reference.md](references/strength-coach-refer
 - Rehearse attempts, openers, medleys, or pressing positions before tapering volume.
 - Avoid introducing unfamiliar exercise stress close to the meet.
 
+## Form Check
+- Use the form-check references when the user uploads a video or asks for technique review.
+- Review the clip against the lift-specific rubric and known-good movement patterns.
+- If the camera angle is poor or the clip does not support a strong opinion, say so and lower confidence.
+- Call out what looks good, what looks off, the biggest fix, and whether a redo is needed because of a bad assumption or poor view.
+
 ## Program Review
 - If the user submits an existing program, review it against their stated goal, timeline, sport, recovery, and equipment.
 - Call out mismatches between the program and the desired outcome.
@@ -81,3 +87,4 @@ When answering, give:
 - a disclaimer block before any full template or prep plan
 - a brief assumptions review at the end of any completed template or prep plan
 - a program-review path when the user submits an existing plan for critique
+- a form-check path when the user submits video or asks for technique review

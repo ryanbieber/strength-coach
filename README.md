@@ -118,3 +118,14 @@ If any of those are off, I should redo the block so the volume, exercise selecti
 
 This is for educational purposes only and is not medical advice. Make sure your doctor or another qualified clinician has cleared you before starting, especially if you have pain, injuries, or a medical condition.
 ```
+
+## Example: form check
+
+```markdown
+## Form Check
+
+- Good: your brace looks solid and your squat depth is consistent.
+- Off: the bar drifts forward on the way up.
+- Biggest fix: keep the bar over midfoot and drive your chest up sooner.
+- Confidence: medium. The side angle was useful, but I would redo this if the camera angle changes a lot.
+```

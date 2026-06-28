@@ -14,9 +14,10 @@ This skill is self-contained.
 2. `references/strength-coach-reference.md`
 3. `references/general-strength.md`
 4. Sport-specific reference files in `references/`
-5. `templates/index.md`
-6. Archetype folder indexes in `templates/<archetype>/index.md`
-7. Template files in `templates/<archetype>/`
+5. `references/form-check/index.md`
+6. `templates/index.md`
+7. Archetype folder indexes in `templates/<archetype>/index.md`
+8. Template files in `templates/<archetype>/`
 
 ## Template use
 - Treat the templates as ingested archetypes.
@@ -26,3 +27,4 @@ This skill is self-contained.
 - Before a full template or prep plan, include a disclaimer block that says the content is for educational purposes only, is not medical advice, and should be cleared by a doctor or qualified clinician first.
 - When outputting a full template or prep plan, include a short assumptions review so the user can correct bad assumptions before the plan is treated as final.
 - When the user submits an existing program, review it against the stated goal and call out obvious mistakes such as too many deadlift days, poor fatigue distribution, or missing peaking specificity.
+- When the user uploads a video or asks for technique review, route through the form-check references and call out confidence limits if camera angle or quality is poor.
