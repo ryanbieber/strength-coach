@@ -8,17 +8,21 @@ description: Program and advise strength athletes across powerlifting, strongman
 ## Overview
 Use this skill to turn an athlete's goal, equipment, and timeline into a concrete training recommendation. Stay specific: identify the sport, movement pattern, limiting factor, and recovery budget before selecting lifts or programming volume.
 Before writing a program, confirm what the program is for and when it needs to peak.
+Ask only for the missing information that materially changes the plan, then infer reasonable defaults to avoid answer fatigue.
 
 ## Intake Order
-1. Ask what the program is for, then ask for the goal, sport, event date, training age, injury limits, equipment, and weekly frequency if any are missing.
+1. Ask what the program is for, then ask for the goal, sport, event date, training age, injury limits, equipment, weekly frequency, session length, sleep, fatigue management, and eating if any of those are missing and would materially change the plan.
 2. Identify the primary pattern: squat, bench, hinge, overhead, carry, loading, snatch, clean and jerk, or hypertrophy split.
 3. Pick one main lift, one secondary lift, and one or two accessories that support the target.
 4. Scale volume and intensity to the athlete's recovery and the time until the target date.
 5. When equipment is limited, replace the movement pattern first, the implement second, and the exact exercise last.
+6. When details are missing, infer reasonable defaults from the athlete's goal, timeline, and context instead of asking follow-up questions for every variable.
 
 ## Programming Rules
 - Match the exercise to the outcome. Specificity first, novelty last.
 - Keep the main work close to the sport or event, then use accessories to attack weak links.
+- Account for sleep, fatigue, eating, days per week, and session length when setting volume and exercise selection.
+- If the athlete gives limited context, make the smallest reasonable assumption and state it briefly.
 - For strength phases, progress load or reps conservatively and protect technique.
 - For bodybuilding, prioritize tension, volume landmarks, exercise order, and joint-friendly execution.
 - For weightlifting, preserve positions, speed under the bar, and the receiving positions of the competition lifts.

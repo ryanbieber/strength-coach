@@ -38,3 +38,9 @@
   - RPE tells you how hard it should feel
   - total volume tells you how much fatigue you are likely to accumulate
   - peaking shifts from more volume to more intensity so strength can show up on the day
+
+## Planning With Limited Info
+- Ask only for the missing details that materially change the plan.
+- Use the athlete's goal, timeline, and constraints to infer likely defaults when possible.
+- Consider sleep, eating, fatigue, days per week, and session length before adding more volume or more exercises.
+- Avoid answer fatigue by making the plan from the information already provided instead of asking a long list of follow-up questions.
