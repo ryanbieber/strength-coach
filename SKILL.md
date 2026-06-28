@@ -45,6 +45,7 @@ Ask only for the missing information that materially changes the plan, then infe
 - Explain total volume when it affects progression, recovery, or peaking.
 - For peaking, reduce volume and increase intensity while keeping specificity high.
 - If the exact load is unclear, prefer the RPE target over a hard number.
+- When you give a finished template or prep block, end with a short assumptions review that lists what you inferred and what would need to change if the assumptions are wrong.
 
 ## Exercise Replacements
 Use this substitution order:
@@ -68,3 +69,4 @@ When answering, give:
 - 1 to 2 alternates if equipment or tolerance is limited
 - a short why-it-fits explanation
 - the next question to ask if the context is incomplete
+- a brief assumptions review at the end of any completed template or prep plan

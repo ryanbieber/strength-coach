@@ -96,3 +96,17 @@ If you do not have a barbell deadlift setup, use the closest hinge pattern first
 
 If you do not know your log press best, use your strict press best as the proxy and reduce the target load to account for the clean and the extra fatigue from getting the log to the shoulder.
 ```
+
+## Example: assumptions review
+
+```markdown
+## Assumptions
+
+- I assumed you train 4 days per week.
+- I assumed 75 to 90 minutes per session.
+- I assumed you have access to a log or the closest overhead simulation.
+
+### If that is wrong
+
+If any of those are off, I should redo the block so the volume, exercise selection, or event specificity matches your real setup.
+```
