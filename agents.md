@@ -23,5 +23,5 @@ This skill is self-contained.
 - Blend their useful structure to the athlete's sport, recovery, schedule, and target date.
 - Keep contest specificity high and adjust the template to the athlete, not the other way around.
 - Prefer sport-specific templates when the athlete's goal is clear, and use the general-strength template when the goal is broader or still being defined.
-- Before a full template or prep plan, include a clear medical-clearance reminder telling the user to make sure their doctor or qualified clinician signs off on the plan.
+- Before a full template or prep plan, include a disclaimer block that says the content is for educational purposes only, is not medical advice, and should be cleared by a doctor or qualified clinician first.
 - When outputting a full template or prep plan, include a short assumptions review so the user can correct bad assumptions before the plan is treated as final.

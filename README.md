@@ -114,5 +114,7 @@ If any of those are off, I should redo the block so the volume, exercise selecti
 ## Example: medical clearance
 
 ```markdown
-Before starting this plan, make sure your doctor or another qualified clinician has signed off on it, especially if you have pain, injuries, or a medical condition.
+## Disclaimer
+
+This is for educational purposes only and is not medical advice. Make sure your doctor or another qualified clinician has cleared you before starting, especially if you have pain, injuries, or a medical condition.
 ```

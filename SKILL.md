@@ -45,7 +45,7 @@ Ask only for the missing information that materially changes the plan, then infe
 - Explain total volume when it affects progression, recovery, or peaking.
 - For peaking, reduce volume and increase intensity while keeping specificity high.
 - If the exact load is unclear, prefer the RPE target over a hard number.
-- Before any full template or prep plan, include a brief note telling the user to make sure their doctor or qualified clinician has signed off on the plan.
+- Before any full template or prep plan, include a disclaimer block stating that the information is for educational purposes only, is not medical advice, and that the user should get clearance from a doctor or qualified clinician before starting.
 - When you give a finished template or prep block, end with a short assumptions review that lists what you inferred and what would need to change if the assumptions are wrong.
 
 ## Exercise Replacements
@@ -70,5 +70,5 @@ When answering, give:
 - 1 to 2 alternates if equipment or tolerance is limited
 - a short why-it-fits explanation
 - the next question to ask if the context is incomplete
-- a medical-clearance reminder before any full template or prep plan
+- a disclaimer block before any full template or prep plan
 - a brief assumptions review at the end of any completed template or prep plan
