@@ -16,6 +16,8 @@ This skill helps generate training recommendations for strength athletes, includ
 - If a comparable lift max is available, give an estimated working load range
 - Explain RPE when relevant
 - `RPE 8` means roughly 2 reps left in the tank
+- Define sets, reps, and total volume when helpful
+- For peaking, explain that volume usually drops while intensity rises
 
 ## Example: squat day
 
@@ -30,6 +32,21 @@ This skill helps generate training recommendations for strength athletes, includ
 ### Loading note
 
 If your competition back squat is around 405 lb, the working sets may land roughly around 285-325 lb depending on technique, fatigue, and bar speed.
+```
+
+## Example: general strength explanation
+
+```markdown
+## Training Terms
+
+- Set: a group of reps performed without rest.
+- Rep: one full repetition of an exercise.
+- Total volume: the amount of work done across the session or week.
+- RPE 8: about 2 reps left in the tank.
+
+### Peaking
+
+As a meet or event gets closer, volume usually comes down and intensity goes up. That keeps the lift specific while reducing fatigue so the athlete can express strength.
 ```
 
 ## Example: bench day with explanation

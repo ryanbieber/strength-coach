@@ -27,6 +27,7 @@ Preserve the pattern and target, then adjust the implement.
 - No bodybuilding machine: cable, dumbbell, or stable free-weight version with the same line of pull.
 
 ## 4. Sport Reference Files
+- [general-strength.md](general-strength.md)
 - [powerlifting.md](powerlifting.md)
 - [strongman.md](strongman.md)
 - [weightlifting.md](weightlifting.md)

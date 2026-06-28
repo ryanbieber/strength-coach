@@ -29,6 +29,9 @@ Use this skill to turn an athlete's goal, equipment, and timeline into a concret
 - Include each exercise with `sets x reps @ RPE` when giving loading guidance.
 - If the athlete provides a recent max or comparable lift, give an estimated working load range for the programmed lift and explain that it is an estimate based on the comparable lift.
 - Explain RPE when it matters. `RPE 8` means the set should end with about 2 reps left in the tank.
+- Define sets and reps clearly when the athlete may not know the shorthand.
+- Explain total volume when it affects progression, recovery, or peaking.
+- For peaking, reduce volume and increase intensity while keeping specificity high.
 - If the exact load is unclear, prefer the RPE target over a hard number.
 
 ## Exercise Replacements
