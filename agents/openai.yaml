@@ -1,0 +1,4 @@
+interface:
+  display_name: "Strength Coach"
+  short_description: "Program and advise strength athletes"
+  default_prompt: "Use $strength-coach to program lifts, swap exercises for equipment limits, or prep an athlete for contest day."
