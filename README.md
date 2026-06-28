@@ -8,6 +8,7 @@ This skill helps generate training recommendations for strength athletes, includ
 - Exercise substitutions when equipment is missing
 - Workout formatting with clear loading guidance
 - Basic contest prep and peaking decisions
+- Program templates and blend points drawn from LiftVault examples like Sheiko, Smolov, Candito, Texas Method, 5/3/1, Madcow, Juggernaut, Korte, Coan / Phillipi, and Mag Ort
 
 ## Response style
 

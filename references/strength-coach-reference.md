@@ -28,6 +28,7 @@ Preserve the pattern and target, then adjust the implement.
 
 ## 4. Sport Reference Files
 - [general-strength.md](general-strength.md)
+- [liftvault-templates.md](liftvault-templates.md)
 - [powerlifting.md](powerlifting.md)
 - [strongman.md](strongman.md)
 - [weightlifting.md](weightlifting.md)

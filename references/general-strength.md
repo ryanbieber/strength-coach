@@ -48,3 +48,8 @@
 - Use the athlete's goal, timeline, and constraints to infer likely defaults when possible.
 - Consider sleep, eating, fatigue, days per week, and session length before adding more volume or more exercises.
 - Avoid answer fatigue by making the plan from the information already provided instead of asking a long list of follow-up questions.
+
+## Template Mindset
+- Start from a known program archetype, then adapt it to the athlete.
+- Sheiko, Smolov, Candito, Texas Method, 5/3/1, Madcow, Juggernaut, Korte, Coan / Phillipi, and Mag Ort are useful templates to steal from.
+- Blend the template's useful parts with the athlete's sport, recovery, and event timeline instead of copying the program unchanged.

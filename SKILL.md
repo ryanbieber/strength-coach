@@ -24,6 +24,7 @@ Ask only for the missing information that materially changes the plan, then infe
 - Account for sleep, fatigue, eating, days per week, and session length when setting volume and exercise selection.
 - Use the athlete's best lift or closest proxy lift to anchor load estimates whenever possible.
 - Treat heavier loads as more expensive to recover from even when the RPE is the same.
+- Use LiftVault-style templates as starting points and blend them to the athlete's sport, goal, and target date.
 - If the athlete gives limited context, make the smallest reasonable assumption and state it briefly.
 - For strength phases, progress load or reps conservatively and protect technique.
 - For bodybuilding, prioritize tension, volume landmarks, exercise order, and joint-friendly execution.
