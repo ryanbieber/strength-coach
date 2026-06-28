@@ -8,7 +8,7 @@ This skill helps generate training recommendations for strength athletes, includ
 - Exercise substitutions when equipment is missing
 - Workout formatting with clear loading guidance
 - Basic contest prep and peaking decisions
-- Program templates and blend points drawn from ingested local examples across disciplines, including Sheiko, Smolov, Candito, Texas Method, 5/3/1, Madcow, Juggernaut, Korte, Coan / Phillipi, Mag Ort, strongman, weightlifting, bodybuilding, and general strength
+- Program templates and blend points drawn from ingested local examples across disciplines, including Sheiko, Smolov, Candito, Texas Method, 5/3/1, Madcow, Juggernaut, Korte, Coan / Phillipi, Mag Ort, strongman, weightlifting, and bodybuilding
 
 ## Response style
 

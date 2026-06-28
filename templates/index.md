@@ -3,7 +3,6 @@
 Use these as ingested archetypes, not fixed scripts. Blend them to the athlete's sport, recovery, session length, and target date.
 
 ## Library
-- [general-strength.md](general-strength.md)
 - [sheiko.md](sheiko.md)
 - [smolov.md](smolov.md)
 - [candito-6-week.md](candito-6-week.md)
