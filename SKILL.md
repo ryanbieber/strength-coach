@@ -23,6 +23,7 @@ Before writing a program, confirm what the program is for and when it needs to p
 - For bodybuilding, prioritize tension, volume landmarks, exercise order, and joint-friendly execution.
 - For weightlifting, preserve positions, speed under the bar, and the receiving positions of the competition lifts.
 - For strongman, program implements, carries, loads, and medleys instead of barbell-only substitutes.
+- For strongman, if the exact contest implement is unavailable, choose the closest simulation by matching the event's implement, loading position, range of motion, movement path, grip demand, duration, and fatigue profile.
 - During peaking, keep sport specificity high: use the contest implement for strongman when possible, keep competition lifts central for powerlifting and weightlifting, and bias lagging muscle groups for bodybuilding.
 
 ## Output Format

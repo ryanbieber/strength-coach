@@ -24,7 +24,7 @@
 - Keep the main lift pattern in place.
 - Cut accessory volume first.
 - Match the peaking strategy to the sport:
-  - strongman: train the contest implement as much as possible
+  - strongman: train the contest implement as much as possible, or the closest simulation when the implement is unavailable
   - powerlifting: keep the squat, bench, and deadlift as the focus
   - weightlifting: keep the snatch and clean and jerk as the focus
   - bodybuilding: bias the lagging muscle groups and reduce unnecessary fatigue
