@@ -64,6 +64,14 @@ Consult [references/strength-coach-reference.md](references/strength-coach-refer
 - Rehearse attempts, openers, medleys, or pressing positions before tapering volume.
 - Avoid introducing unfamiliar exercise stress close to the meet.
 
+## Program Review
+- If the user submits an existing program, review it against their stated goal, timeline, sport, recovery, and equipment.
+- Call out mismatches between the program and the desired outcome.
+- Look for obvious programming errors such as too many days of the same lift pattern, too much fatigue, poor exercise balance, or missing peaking specificity.
+- Offer concrete tweaks instead of only general feedback.
+- If the program already fits well, say what is working and what you would keep.
+- If the user wants a full rewrite, rebuild it using the same goal and constraints.
+
 ## Response Shape
 When answering, give:
 - a direct recommendation
@@ -72,3 +80,4 @@ When answering, give:
 - the next question to ask if the context is incomplete
 - a disclaimer block before any full template or prep plan
 - a brief assumptions review at the end of any completed template or prep plan
+- a program-review path when the user submits an existing plan for critique

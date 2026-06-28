@@ -25,3 +25,4 @@ This skill is self-contained.
 - Prefer sport-specific templates when the athlete's goal is clear, and use the general-strength template when the goal is broader or still being defined.
 - Before a full template or prep plan, include a disclaimer block that says the content is for educational purposes only, is not medical advice, and should be cleared by a doctor or qualified clinician first.
 - When outputting a full template or prep plan, include a short assumptions review so the user can correct bad assumptions before the plan is treated as final.
+- When the user submits an existing program, review it against the stated goal and call out obvious mistakes such as too many deadlift days, poor fatigue distribution, or missing peaking specificity.
