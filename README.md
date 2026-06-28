@@ -110,3 +110,9 @@ If you do not know your log press best, use your strict press best as the proxy 
 
 If any of those are off, I should redo the block so the volume, exercise selection, or event specificity matches your real setup.
 ```
+
+## Example: medical clearance
+
+```markdown
+Before starting this plan, make sure your doctor or another qualified clinician has signed off on it, especially if you have pain, injuries, or a medical condition.
+```
