@@ -19,6 +19,8 @@
 - Intensity is how heavy the work is relative to max effort.
 - When volume goes up, recovery demand usually goes up too.
 - When intensity goes up, the bar gets heavier and the work becomes more specific.
+- Two sets can both be `RPE 10`, but the heavier set usually costs more to recover from because the absolute load is higher.
+- Example: a 300 lb deadlift at `RPE 10` is not the same recovery burden as a 700 lb deadlift at `RPE 10`.
 
 ## Peaking
 - Peaking usually means less volume, more intensity, and more specificity.
@@ -39,6 +41,7 @@
   - RPE tells you how hard it should feel
   - total volume tells you how much fatigue you are likely to accumulate
   - peaking shifts from more volume to more intensity so strength can show up on the day
+  - heavier loads at the same RPE are usually harder to recover from
 
 ## Planning With Limited Info
 - Ask only for the missing details that materially change the plan.

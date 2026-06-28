@@ -23,6 +23,7 @@ Ask only for the missing information that materially changes the plan, then infe
 - Keep the main work close to the sport or event, then use accessories to attack weak links.
 - Account for sleep, fatigue, eating, days per week, and session length when setting volume and exercise selection.
 - Use the athlete's best lift or closest proxy lift to anchor load estimates whenever possible.
+- Treat heavier loads as more expensive to recover from even when the RPE is the same.
 - If the athlete gives limited context, make the smallest reasonable assumption and state it briefly.
 - For strength phases, progress load or reps conservatively and protect technique.
 - For bodybuilding, prioritize tension, volume landmarks, exercise order, and joint-friendly execution.
@@ -37,6 +38,7 @@ Ask only for the missing information that materially changes the plan, then infe
 - Include each exercise with `sets x reps @ RPE` when giving loading guidance.
 - If the athlete provides a recent max or comparable lift, give an estimated working load range for the programmed lift and explain that it is an estimate based on the comparable lift.
 - When comparing blocks or explaining programming choices, use total weight moved, also called tonnage, as a simple proxy for volume versus intensity.
+- Make clear that two sets with the same RPE can have different recovery costs if one uses a much heavier absolute load.
 - Explain RPE when it matters. `RPE 8` means the set should end with about 2 reps left in the tank.
 - Define sets and reps clearly when the athlete may not know the shorthand.
 - Explain total volume when it affects progression, recovery, or peaking.
