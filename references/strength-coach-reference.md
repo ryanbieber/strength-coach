@@ -28,26 +28,28 @@ Preserve the pattern and target, then adjust the implement.
 
 ## 4. Sport Reference Files
 - [general-strength.md](general-strength.md)
-- [liftvault-templates.md](liftvault-templates.md)
 - [powerlifting.md](powerlifting.md)
 - [strongman.md](strongman.md)
 - [weightlifting.md](weightlifting.md)
 - [bodybuilding.md](bodybuilding.md)
 
-## 5. Contest Prep
+## 5. Template Files
+- [../templates/index.md](../templates/index.md)
+
+## 6. Contest Prep
 - Keep specificity high and novelty low.
 - Reduce accessory volume as the event approaches.
 - Rehearse the exact competitive skill: attempts, medleys, platform lifts, or posing demand.
 - Leave enough recovery to keep speed, confidence, and technique high.
 
-## 6. Output Format
+## 7. Output Format
 - Write workouts and programs in Markdown.
 - Use headings and bullets instead of prose dumps.
 - Show loading as `sets x reps @ RPE`.
 - If a comparable lift max exists, estimate the working weight range from that lift and say it is an estimate.
 - Define RPE when needed. `RPE 8` means about 2 reps left in reserve.
 
-## 7. Good Answer Pattern
+## 8. Good Answer Pattern
 - State the recommendation first.
 - Provide one fallback if equipment or tolerance is limited.
 - Say why it matches the athlete's limiter.
