@@ -7,12 +7,13 @@ description: Program and advise strength athletes across powerlifting, strongman
 
 ## Overview
 Use this skill to turn an athlete's goal, equipment, and timeline into a concrete training recommendation. Stay specific: identify the sport, movement pattern, limiting factor, and recovery budget before selecting lifts or programming volume.
+Before writing a program, confirm what the program is for and when it needs to peak.
 
 ## Intake Order
-1. Ask for the goal, sport, event date, training age, injury limits, equipment, and weekly frequency if any are missing.
+1. Ask what the program is for, then ask for the goal, sport, event date, training age, injury limits, equipment, and weekly frequency if any are missing.
 2. Identify the primary pattern: squat, bench, hinge, overhead, carry, loading, snatch, clean and jerk, or hypertrophy split.
 3. Pick one main lift, one secondary lift, and one or two accessories that support the target.
-4. Scale volume and intensity to the athlete's recovery and the time until competition.
+4. Scale volume and intensity to the athlete's recovery and the time until the target date.
 5. When equipment is limited, replace the movement pattern first, the implement second, and the exact exercise last.
 
 ## Programming Rules
@@ -47,6 +48,7 @@ Consult [references/strength-coach-reference.md](references/strength-coach-refer
 ## Contest Prep
 - Reduce noise and keep specificity high as the event approaches.
 - Preserve the competition pattern, bar path, or event order.
+- Build the plan to peak on the show or meet date, not just to accumulate work.
 - Rehearse attempts, openers, medleys, or pressing positions before tapering volume.
 - Avoid introducing unfamiliar exercise stress close to the meet.
 

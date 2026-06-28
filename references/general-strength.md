@@ -30,6 +30,7 @@
   - bodybuilding: bias the lagging muscle groups and reduce unnecessary fatigue
 - Use heavier sets with fewer reps so the athlete can express strength without accumulating too much fatigue.
 - A common pattern is to move from moderate-rep work to singles, doubles, and triples as the event approaches.
+- The program should peak on the target date, so the final weeks should be organized backward from that date.
 
 ## How To Explain It
 - If the athlete needs a simple explanation, say:

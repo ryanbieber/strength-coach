@@ -11,6 +11,7 @@
 - Preserve the order and rules of the event when rehearsing.
 
 ## Contest Prep
+- Build the block so it peaks at the contest date.
 - Rehearse the exact contest implements as much as possible, especially if the event includes a log press, axle press, yoke, sandbag, or farmers.
 - Rehearse event order and pacing.
 - Keep novelty low near the contest.
