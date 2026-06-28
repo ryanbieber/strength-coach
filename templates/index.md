@@ -3,6 +3,7 @@
 Use these as ingested archetypes, not fixed scripts. Blend them to the athlete's sport, recovery, session length, and target date.
 
 ## Library
+- [general-strength.md](general-strength.md)
 - [sheiko.md](sheiko.md)
 - [smolov.md](smolov.md)
 - [candito-6-week.md](candito-6-week.md)
@@ -16,6 +17,9 @@ Use these as ingested archetypes, not fixed scripts. Blend them to the athlete's
 - [strongman.md](strongman.md)
 - [weightlifting.md](weightlifting.md)
 - [bodybuilding.md](bodybuilding.md)
+- [strongman-contest-prep.md](strongman-contest-prep.md)
+- [weightlifting-classic-cycle.md](weightlifting-classic-cycle.md)
+- [bodybuilding-hypertrophy-split.md](bodybuilding-hypertrophy-split.md)
 
 ## Blend Rules
 - Use the template to borrow structure, not exact exercise lists.

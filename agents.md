@@ -21,3 +21,4 @@ This skill is self-contained.
 - Treat the templates as ingested archetypes.
 - Blend their useful structure to the athlete's sport, recovery, schedule, and target date.
 - Keep contest specificity high and adjust the template to the athlete, not the other way around.
+- Prefer sport-specific templates when the athlete's goal is clear, and use the general-strength template when the goal is broader or still being defined.
