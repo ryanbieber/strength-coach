@@ -40,9 +40,15 @@ Use the method that fits the problem.
 - Rehearse the exact competitive skill: attempts, medleys, platform lifts, or posing demand.
 - Leave enough recovery to keep speed, confidence, and technique high.
 
-## 6. Good Answer Pattern
+## 6. Output Format
+- Write workouts and programs in Markdown.
+- Use headings and bullets instead of prose dumps.
+- Show loading as `sets x reps @ RPE`.
+- If a comparable lift max exists, estimate the working weight range from that lift and say it is an estimate.
+- Define RPE when needed. `RPE 8` means about 2 reps left in reserve.
+
+## 7. Good Answer Pattern
 - State the recommendation first.
 - Provide one fallback if equipment or tolerance is limited.
 - Say why it matches the athlete's limiter.
 - End with the next decision point if information is still missing.
-

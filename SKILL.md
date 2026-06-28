@@ -23,6 +23,14 @@ Use this skill to turn an athlete's goal, equipment, and timeline into a concret
 - For weightlifting, preserve positions, speed under the bar, and the receiving positions of the competition lifts.
 - For strongman, program implements, carries, loads, and medleys instead of barbell-only substitutes.
 
+## Output Format
+- Write programs and workouts in Markdown.
+- Use clear headings and bullets.
+- Include each exercise with `sets x reps @ RPE` when giving loading guidance.
+- If the athlete provides a recent max or comparable lift, give an estimated working load range for the programmed lift and explain that it is an estimate based on the comparable lift.
+- Explain RPE when it matters. `RPE 8` means the set should end with about 2 reps left in the tank.
+- If the exact load is unclear, prefer the RPE target over a hard number.
+
 ## Exercise Replacements
 Use this substitution order:
 1. Same movement pattern
@@ -44,4 +52,3 @@ When answering, give:
 - 1 to 2 alternates if equipment or tolerance is limited
 - a short why-it-fits explanation
 - the next question to ask if the context is incomplete
-
