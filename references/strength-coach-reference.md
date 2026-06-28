@@ -26,13 +26,11 @@ Preserve the pattern and target, then adjust the implement.
 - No strongman implements: trap-bar carry, sandbag carry, farmer handles, keg or medley-style carries.
 - No bodybuilding machine: cable, dumbbell, or stable free-weight version with the same line of pull.
 
-## 4. Method Bias
-Use the method that fits the problem.
-
-- Powerlifting: main lift specificity, weak-point work, repeatable progress.
-- Strongman: event practice, implements, carries, loading, medleys.
-- Weightlifting: positions, timing, pulls, receiving strength, frequency.
-- Bodybuilding: targeted volume, exercise order, fatigue management, joint-friendly execution.
+## 4. Sport Reference Files
+- [powerlifting.md](powerlifting.md)
+- [strongman.md](strongman.md)
+- [weightlifting.md](weightlifting.md)
+- [bodybuilding.md](bodybuilding.md)
 
 ## 5. Contest Prep
 - Keep specificity high and novelty low.
