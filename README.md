@@ -14,6 +14,7 @@ This skill helps generate training recommendations for strength athletes, includ
 - Write programs and workouts in Markdown
 - Use `sets x reps @ RPE` for work sets
 - If a comparable lift max is available, give an estimated working load range
+- If the exact lift best is not known, use the closest proxy lift and explain the adjustment
 - Explain RPE when relevant
 - `RPE 8` means roughly 2 reps left in the tank
 - Define sets, reps, and total volume when helpful
@@ -78,4 +79,19 @@ RPE 8 means you should finish the set with about 2 reps left in the tank.
 ### Note
 
 If you do not have a barbell deadlift setup, use the closest hinge pattern first, then adjust the implement second.
+```
+
+## Example: log press proxy
+
+```markdown
+## Log Press Prep
+
+- Log clean and press: 5 x 3 @ RPE 7-8
+- Push press: 3 x 3 @ RPE 7
+- Upper back row: 4 x 8-10
+- Triceps extension: 3 x 12
+
+### Loading note
+
+If you do not know your log press best, use your strict press best as the proxy and reduce the target load to account for the clean and the extra fatigue from getting the log to the shoulder.
 ```

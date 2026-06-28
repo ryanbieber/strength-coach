@@ -11,6 +11,7 @@
 - Total volume is the amount of work done.
 - In practice, that can mean total hard sets, total reps, or tonnage.
 - Tonnage is sets x reps x load.
+- Tonnage is a useful proxy for comparing volume versus intensity across weeks or blocks.
 - Higher volume usually means more fatigue and more recovery cost.
 
 ## Volume vs Intensity

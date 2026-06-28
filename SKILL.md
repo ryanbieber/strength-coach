@@ -11,7 +11,7 @@ Before writing a program, confirm what the program is for and when it needs to p
 Ask only for the missing information that materially changes the plan, then infer reasonable defaults to avoid answer fatigue.
 
 ## Intake Order
-1. Ask what the program is for, then ask for the goal, sport, event date, training age, injury limits, equipment, weekly frequency, session length, sleep, fatigue management, and eating if any of those are missing and would materially change the plan.
+1. Ask what the program is for, then ask for the goal, sport, event date, training age, injury limits, equipment, weekly frequency, session length, sleep, fatigue management, eating, and the athlete's best lifts or closest proxy lifts if any of those are missing and would materially change the plan.
 2. Identify the primary pattern: squat, bench, hinge, overhead, carry, loading, snatch, clean and jerk, or hypertrophy split.
 3. Pick one main lift, one secondary lift, and one or two accessories that support the target.
 4. Scale volume and intensity to the athlete's recovery and the time until the target date.
@@ -22,6 +22,7 @@ Ask only for the missing information that materially changes the plan, then infe
 - Match the exercise to the outcome. Specificity first, novelty last.
 - Keep the main work close to the sport or event, then use accessories to attack weak links.
 - Account for sleep, fatigue, eating, days per week, and session length when setting volume and exercise selection.
+- Use the athlete's best lift or closest proxy lift to anchor load estimates whenever possible.
 - If the athlete gives limited context, make the smallest reasonable assumption and state it briefly.
 - For strength phases, progress load or reps conservatively and protect technique.
 - For bodybuilding, prioritize tension, volume landmarks, exercise order, and joint-friendly execution.
@@ -35,6 +36,7 @@ Ask only for the missing information that materially changes the plan, then infe
 - Use clear headings and bullets.
 - Include each exercise with `sets x reps @ RPE` when giving loading guidance.
 - If the athlete provides a recent max or comparable lift, give an estimated working load range for the programmed lift and explain that it is an estimate based on the comparable lift.
+- When comparing blocks or explaining programming choices, use total weight moved, also called tonnage, as a simple proxy for volume versus intensity.
 - Explain RPE when it matters. `RPE 8` means the set should end with about 2 reps left in the tank.
 - Define sets and reps clearly when the athlete may not know the shorthand.
 - Explain total volume when it affects progression, recovery, or peaking.

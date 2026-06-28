@@ -9,6 +9,7 @@
 - Use the actual implement when possible.
 - When the exact implement is not available, simulate the event as closely as possible using the best available analog.
 - Choose the analog by matching the event's implement, loading position, range of motion, movement path, grip demand, event duration, and fatigue profile.
+- If a log press best is not available, use a strict press or push press best as the proxy for press strength, then account for the clean and lap/shoulder fatigue that the log adds.
 - Train grip, bracing, event transitions, and fatigue resistance.
 - Preserve the order and rules of the event when rehearsing.
 - Use the broader strongman knowledge base to pick the closest practical substitute, not just the closest barbell movement.
