@@ -124,6 +124,7 @@ This is for educational purposes only and is not medical advice. Make sure your 
 ```markdown
 ## Form Check
 
+- I am assuming you want a technique review of the uploaded video.
 - Good: your brace looks solid and your squat depth is consistent.
 - Off: the bar drifts forward on the way up.
 - Biggest fix: keep the bar over midfoot and drive your chest up sooner.

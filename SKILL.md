@@ -66,8 +66,10 @@ Consult [references/strength-coach-reference.md](references/strength-coach-refer
 
 ## Form Check
 - Use the form-check references when the user uploads a video or asks for technique review.
+- Assume the user wants a form check when they upload a video.
 - Review the clip against the lift-specific rubric and known-good movement patterns.
-- If the camera angle is poor or the clip does not support a strong opinion, say so and lower confidence.
+- Do not ask for the lift or angle first unless the video is too ambiguous to identify the movement.
+- If the clip is poor quality or does not support a strong opinion, say so and lower confidence.
 - Call out what looks good, what looks off, the biggest fix, and whether a redo is needed because of a bad assumption or poor view.
 
 ## Program Review

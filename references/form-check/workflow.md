@@ -1,10 +1,10 @@
 # Form Check Workflow
 
 ## Intake
-- Ask what lift or event is being checked.
-- Ask whether the user wants setup review, rep-by-rep critique, or a full technique audit.
-- Ask for camera angle, load, and whether the set was a max effort, warm-up, or working set.
-- Ask whether the athlete wants one main fix or a full breakdown.
+- Assume the user wants a form check when they upload a video.
+- Do not ask for the lift or angle first unless the user did not upload enough information to identify the movement at all.
+- If the clip is clear enough, start the review immediately.
+- If the clip is ambiguous, state the uncertainty and only then ask the minimum needed follow-up.
 
 ## Evaluation Steps
 1. Identify the lift and rep phase.

@@ -27,4 +27,5 @@ This skill is self-contained.
 - Before a full template or prep plan, include a disclaimer block that says the content is for educational purposes only, is not medical advice, and should be cleared by a doctor or qualified clinician first.
 - When outputting a full template or prep plan, include a short assumptions review so the user can correct bad assumptions before the plan is treated as final.
 - When the user submits an existing program, review it against the stated goal and call out obvious mistakes such as too many deadlift days, poor fatigue distribution, or missing peaking specificity.
-- When the user uploads a video or asks for technique review, route through the form-check references and call out confidence limits if camera angle or quality is poor.
+- When the user uploads a video or asks for technique review, assume they want a form check and route through the form-check references without asking for the lift or angle first unless the clip is too ambiguous to identify.
+- Call out confidence limits if camera angle or quality is poor, but do not block the review on follow-up questions when the clip is already usable.
