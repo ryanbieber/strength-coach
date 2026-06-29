@@ -19,6 +19,19 @@ This repo powers the `strength-coach` skill. It helps turn a lifting goal, event
 4. Use RPE to adjust load when exact percentages are not available.
 5. Keep specificity high as the target date approaches and cut unnecessary fatigue first.
 
+## Programs To Study
+
+The repo keeps a small external-program catalog in [`references/program-catalog.md`](./references/program-catalog.md). The current short list includes:
+
+- Joey Szatmary's `12 Week Strongman Program`
+- Barbell Medicine's `Strongman Template`
+- Stronger by Science's `Program Bundle`
+- Stronger by Science's `28 One-Lift Programs`
+- Barbell Medicine's `Powerlifting II`
+- Barbell Medicine's `Strength II`
+
+These are reference points for how good programs are structured. They are not copied wholesale into the skill.
+
 ## Example request
 
 > For powerlifting, strongman, and weightlifting, getting close to RPE 10 is an important training tool. Use it sparingly.
