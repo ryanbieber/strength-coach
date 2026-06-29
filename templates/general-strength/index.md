@@ -30,3 +30,6 @@
 - [greyskull-lp.md](greyskull-lp.md)
 - [gzclp.md](gzclp.md)
 - [five-three-one-general-strength.md](five-three-one-general-strength.md)
+
+## External Programs
+- [programs.md](programs.md)

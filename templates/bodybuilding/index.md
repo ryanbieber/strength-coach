@@ -27,3 +27,6 @@
 - [arnold-split.md](arnold-split.md)
 - [phat.md](phat.md)
 - [full-body-hypertrophy.md](full-body-hypertrophy.md)
+
+## External Programs
+- [programs.md](programs.md)

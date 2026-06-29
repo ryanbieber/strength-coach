@@ -9,7 +9,7 @@ This skill is self-contained.
 - Do not pull program structure from the web at runtime unless the user explicitly asks for current external research.
 - Prefer local template matching and blending over live web lookup.
 - Keep `README.md` in sync with user-facing coaching rules, especially distance units, RPE guidance, and example outputs.
-- Keep `templates/powerlifting/programs.md` and `templates/strongman/programs.md` in sync with the external programs that are worth studying or citing in user-facing answers.
+- Keep `templates/<archetype>/programs.md` in sync with the external programs that are worth studying or citing in user-facing answers.
 
 ## Read order
 1. `SKILL.md`

@@ -23,8 +23,11 @@ This repo powers the `strength-coach` skill. It helps turn a lifting goal, event
 
 The repo keeps sport-specific external-program catalogs in:
 
+- [`templates/general-strength/programs.md`](./templates/general-strength/programs.md)
+- [`templates/bodybuilding/programs.md`](./templates/bodybuilding/programs.md)
 - [`templates/strongman/programs.md`](./templates/strongman/programs.md)
 - [`templates/powerlifting/programs.md`](./templates/powerlifting/programs.md)
+- [`templates/weightlifting/programs.md`](./templates/weightlifting/programs.md)
 
 These are reference points for how good programs are structured. They are not copied wholesale into the skill.
 

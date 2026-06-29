@@ -19,6 +19,9 @@
 - Use variations only when they improve positions, speed, or receiving strength.
 - Reduce noisy variations as the peak approaches.
 
+## External Programs
+- [programs.md](programs.md)
+
 ## Library
 - [weightlifting-classic-cycle.md](weightlifting-classic-cycle.md)
 - [bulgarian-inspired.md](bulgarian-inspired.md)
