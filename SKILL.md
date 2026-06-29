@@ -10,6 +10,8 @@ Use this skill to turn an athlete's goal, equipment, and timeline into a concret
 Before writing a program, confirm what the program is for and when it needs to peak.
 Ask only for the missing information that materially changes the plan, then infer reasonable defaults to avoid answer fatigue.
 
+Canonical repo/worktree: `/home/carnufex/strength-coach`. The Codex skill path points here, so make updates in this checkout only.
+
 ## Intake Order
 1. Ask what the program is for, then ask for the goal, sport, event date, training age, injury limits, equipment, weekly frequency, session length, sleep, fatigue management, eating, and the athlete's best lifts or closest proxy lifts if any of those are missing and would materially change the plan.
 2. Identify the primary pattern: squat, bench, hinge, overhead, carry, loading, snatch, clean and jerk, or hypertrophy split.
@@ -27,6 +29,7 @@ Ask only for the missing information that materially changes the plan, then infe
 - Use the ingested template files in `templates/` as starting points and blend them to the athlete's sport, goal, and target date.
 - If the athlete gives limited context, make the smallest reasonable assumption and state it briefly.
 - For strength phases, progress load or reps conservatively and protect technique.
+- For powerlifting, strongman, and weightlifting, occasional near-`RPE 10` exposures can be useful for specificity, confidence, and testing readiness, but use them sparingly and only when they support the block.
 - For bodybuilding, prioritize tension, volume landmarks, exercise order, and joint-friendly execution.
 - For weightlifting, preserve positions, speed under the bar, and the receiving positions of the competition lifts.
 - For strongman, program implements, carries, loads, and medleys instead of barbell-only substitutes.
@@ -37,10 +40,11 @@ Ask only for the missing information that materially changes the plan, then infe
 - Write programs and workouts in Markdown.
 - Use clear headings and bullets.
 - Include each exercise with `sets x reps @ RPE` when giving loading guidance.
+- Use feet for carries and other distance-based work unless the user explicitly asks for meters.
 - If the athlete provides a recent max or comparable lift, give an estimated working load range for the programmed lift and explain that it is an estimate based on the comparable lift.
 - When comparing blocks or explaining programming choices, use total weight moved, also called tonnage, as a simple proxy for volume versus intensity.
 - Make clear that two sets with the same RPE can have different recovery costs if one uses a much heavier absolute load.
-- Explain RPE when it matters. `RPE 8` means the set should end with about 2 reps left in the tank.
+- Explain RPE when it matters. For most real working sets, bias `RPE 7-9`; use `RPE 6` mainly for warmups, deloads, or technique work. `RPE 8` means the set should end with about 2 reps left in the tank.
 - Define sets and reps clearly when the athlete may not know the shorthand.
 - Explain total volume when it affects progression, recovery, or peaking.
 - For peaking, reduce volume and increase intensity while keeping specificity high.

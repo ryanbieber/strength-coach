@@ -13,6 +13,7 @@
 - Train grip, bracing, event transitions, and fatigue resistance.
 - Preserve the order and rules of the event when rehearsing.
 - Use the broader strongman knowledge base to pick the closest practical substitute, not just the closest barbell movement.
+- Use occasional near-`RPE 10` event exposures when they help rehearse contest demands or assess readiness, but keep them sparse so they do not drown out event quality.
 
 ## Contest Prep
 - Build the block so it peaks at the contest date.

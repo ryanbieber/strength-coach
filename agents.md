@@ -8,6 +8,7 @@ This skill is self-contained.
 - Keep `templates/` for program archetypes and phase structures only.
 - Do not pull program structure from the web at runtime unless the user explicitly asks for current external research.
 - Prefer local template matching and blending over live web lookup.
+- Keep `README.md` in sync with user-facing coaching rules, especially distance units, RPE guidance, and example outputs.
 
 ## Read order
 1. `SKILL.md`

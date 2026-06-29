@@ -9,6 +9,7 @@
 - Use snatch, clean and jerk, pulls, front squats, and overhead receiving work.
 - Bias variations that improve start position, turnover, and recovery from the catch.
 - Keep technical lifts fresh enough to maintain quality.
+- Use occasional near-`RPE 10` singles or doubles when the athlete needs a heavy technical exposure, but keep the dose small so speed and positions stay sharp.
 
 ## Contest Prep
 - Keep the competition lifts in the plan and use the classic lifts as the main peaking focus.

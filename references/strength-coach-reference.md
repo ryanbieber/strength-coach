@@ -49,8 +49,9 @@ Preserve the pattern and target, then adjust the implement.
 - Write workouts and programs in Markdown.
 - Use headings and bullets instead of prose dumps.
 - Show loading as `sets x reps @ RPE`.
+- Use feet for carries and other distance-based work unless the athlete explicitly asks for meters.
 - If a comparable lift max exists, estimate the working weight range from that lift and say it is an estimate.
-- Define RPE when needed. `RPE 8` means about 2 reps left in reserve.
+- Define RPE when needed. For most working sets, bias `RPE 7-9`; use `RPE 6` mainly for warmups, deloads, or technique work. `RPE 8` means about 2 reps left in reserve.
 
 ## 9. Good Answer Pattern
 - State the recommendation first.

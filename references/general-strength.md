@@ -7,6 +7,12 @@
 - RPE: rate of perceived exertion, or how hard the set should feel.
 - `RPE 8`: about 2 reps left in the tank.
 
+## RPE Use
+- For most productive working sets, bias `RPE 7-9`.
+- Use `RPE 6` mainly for warmups, deloads, and technique or speed work.
+- If a block is supposed to build strength or event skill, `RPE 6` should usually be the exception rather than the default.
+- For powerlifting, strongman, and weightlifting, occasional near-`RPE 10` work can be useful, but it should be planned, scarce, and treated as a specific tool rather than a default.
+
 ## Total Volume
 - Total volume is the amount of work done.
 - In practice, that can mean total hard sets, total reps, or tonnage.
