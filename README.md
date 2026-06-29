@@ -21,14 +21,10 @@ This repo powers the `strength-coach` skill. It helps turn a lifting goal, event
 
 ## Programs To Study
 
-The repo keeps a small external-program catalog in [`references/program-catalog.md`](./references/program-catalog.md). The current short list includes:
+The repo keeps sport-specific external-program catalogs in:
 
-- Joey Szatmary's `12 Week Strongman Program`
-- Barbell Medicine's `Strongman Template`
-- Stronger by Science's `Program Bundle`
-- Stronger by Science's `28 One-Lift Programs`
-- Barbell Medicine's `Powerlifting II`
-- Barbell Medicine's `Strength II`
+- [`templates/strongman/programs.md`](./templates/strongman/programs.md)
+- [`templates/powerlifting/programs.md`](./templates/powerlifting/programs.md)
 
 These are reference points for how good programs are structured. They are not copied wholesale into the skill.
 

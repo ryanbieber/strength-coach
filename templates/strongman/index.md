@@ -20,6 +20,9 @@
 - If not, simulate loading position, range of motion, grip, duration, and fatigue as closely as possible.
 - Keep the block narrow as the show approaches.
 
+## External Programs
+- [programs.md](programs.md)
+
 ## Library
 - [strongman-contest-prep.md](strongman-contest-prep.md)
 - [strongman-off-season-base.md](strongman-off-season-base.md)

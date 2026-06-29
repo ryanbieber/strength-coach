@@ -19,3 +19,6 @@ Use these as ingested archetypes, not fixed scripts. Blend them to the athlete's
 - Use Smolov, Candito, Coan / Phillipi, or Mag Ort when the athlete needs a more aggressive peak.
 - Use Texas Method, Madcow, or 5/3/1 when the athlete needs a simpler and more sustainable weekly rhythm.
 - Keep squat, bench, and deadlift as the center of the block.
+
+## External Programs
+- [programs.md](programs.md)
