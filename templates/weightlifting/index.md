@@ -22,6 +22,12 @@
 ## External Programs
 - [programs.md](programs.md)
 
+## Coaches
+- [coaches.md](coaches.md)
+
+## Methodologies
+- [methodologies.md](methodologies.md)
+
 ## Library
 - [weightlifting-classic-cycle.md](weightlifting-classic-cycle.md)
 - [bulgarian-inspired.md](bulgarian-inspired.md)

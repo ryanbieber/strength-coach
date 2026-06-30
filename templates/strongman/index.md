@@ -23,6 +23,12 @@
 ## External Programs
 - [programs.md](programs.md)
 
+## Coaches
+- [coaches.md](coaches.md)
+
+## Methodologies
+- [methodologies.md](methodologies.md)
+
 ## Library
 - [strongman-contest-prep.md](strongman-contest-prep.md)
 - [strongman-off-season-base.md](strongman-off-season-base.md)

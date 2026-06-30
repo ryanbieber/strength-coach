@@ -22,3 +22,9 @@ Use these as ingested archetypes, not fixed scripts. Blend them to the athlete's
 
 ## External Programs
 - [programs.md](programs.md)
+
+## Coaches
+- [coaches.md](coaches.md)
+
+## Methodologies
+- [methodologies.md](methodologies.md)

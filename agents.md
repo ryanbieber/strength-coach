@@ -9,7 +9,7 @@ This skill is self-contained.
 - Do not pull program structure from the web at runtime unless the user explicitly asks for current external research.
 - Prefer local template matching and blending over live web lookup.
 - Keep `README.md` in sync with user-facing coaching rules, especially distance units, RPE guidance, and example outputs.
-- Keep `templates/<archetype>/programs.md` in sync with the external programs that are worth studying or citing in user-facing answers.
+- Keep `templates/<archetype>/{programs,coaches,methodologies}.md` in sync with the external examples that are worth studying or citing in user-facing answers.
 
 ## Read order
 1. `SKILL.md`
@@ -20,7 +20,9 @@ This skill is self-contained.
 6. `templates/index.md`
 7. Archetype folder indexes in `templates/<archetype>/index.md`
 8. Sport-specific program catalogs in `templates/<archetype>/programs.md`
-9. Template files in `templates/<archetype>/`
+9. Sport-specific coach catalogs in `templates/<archetype>/coaches.md`
+10. Sport-specific methodology notes in `templates/<archetype>/methodologies.md`
+11. Template files in `templates/<archetype>/`
 
 ## Template use
 - Treat the templates as ingested archetypes.

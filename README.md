@@ -19,17 +19,27 @@ This repo powers the `strength-coach` skill. It helps turn a lifting goal, event
 4. Use RPE to adjust load when exact percentages are not available.
 5. Keep specificity high as the target date approaches and cut unnecessary fatigue first.
 
-## Programs To Study
+## Knowledge Corpus
 
-The repo keeps sport-specific external-program catalogs in:
+The repo keeps sport-specific corpora in the template folders:
 
 - [`templates/general-strength/programs.md`](./templates/general-strength/programs.md)
+- [`templates/general-strength/coaches.md`](./templates/general-strength/coaches.md)
+- [`templates/general-strength/methodologies.md`](./templates/general-strength/methodologies.md)
 - [`templates/bodybuilding/programs.md`](./templates/bodybuilding/programs.md)
+- [`templates/bodybuilding/coaches.md`](./templates/bodybuilding/coaches.md)
+- [`templates/bodybuilding/methodologies.md`](./templates/bodybuilding/methodologies.md)
 - [`templates/strongman/programs.md`](./templates/strongman/programs.md)
+- [`templates/strongman/coaches.md`](./templates/strongman/coaches.md)
+- [`templates/strongman/methodologies.md`](./templates/strongman/methodologies.md)
 - [`templates/powerlifting/programs.md`](./templates/powerlifting/programs.md)
+- [`templates/powerlifting/coaches.md`](./templates/powerlifting/coaches.md)
+- [`templates/powerlifting/methodologies.md`](./templates/powerlifting/methodologies.md)
 - [`templates/weightlifting/programs.md`](./templates/weightlifting/programs.md)
+- [`templates/weightlifting/coaches.md`](./templates/weightlifting/coaches.md)
+- [`templates/weightlifting/methodologies.md`](./templates/weightlifting/methodologies.md)
 
-These are reference points for how good programs are structured. They are not copied wholesale into the skill.
+These are reference points for how good programs, coaches, and methodologies are structured. They are not copied wholesale into the skill.
 
 ## Example request
 

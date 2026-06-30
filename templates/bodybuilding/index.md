@@ -30,3 +30,9 @@
 
 ## External Programs
 - [programs.md](programs.md)
+
+## Coaches
+- [coaches.md](coaches.md)
+
+## Methodologies
+- [methodologies.md](methodologies.md)
