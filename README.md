@@ -19,6 +19,20 @@ This repo powers the `strength-coach` skill. It helps turn a lifting goal, event
 4. Use RPE to adjust load when exact percentages are not available.
 5. Keep specificity high as the target date approaches and cut unnecessary fatigue first.
 
+## Website
+
+The repo now includes a GitHub Pages front-end in [`site/`](./site/) with a matching deployment workflow in [`.github/workflows/pages.yml`](./.github/workflows/pages.yml).
+
+The site is intentionally gym-themed and includes:
+
+- a short overview of how the skill works
+- the intake order and programming rules
+- sport lane cards for general strength, powerlifting, strongman, weightlifting, and bodybuilding
+- a template rack that links to the underlying markdown files
+- a simple brief builder that turns a few inputs into a copy-ready coaching prompt
+
+For a local preview, serve the `site/` folder with any static server.
+
 ## Knowledge Corpus
 
 The repo keeps sport-specific corpora in the template folders:
