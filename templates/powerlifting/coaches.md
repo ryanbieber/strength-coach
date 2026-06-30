@@ -24,6 +24,10 @@ This folder collects coaches and coaching systems worth studying for powerliftin
   - Founder of JTS with a major role in modern strength coaching.
   - Useful when you want bridge blocks, off-season base building, and high-output training structure.
   - Source: https://www.jtsstrength.com/about/
+- Westside Barbell
+  - The official source of the Conjugate Method and a major influence on modern powerlifting.
+  - Useful when you want a school of thought centered on max-effort, dynamic-effort, and specialized accessory work.
+  - Source: https://www.westsidebarbell.com/
 
 ## Also Worth Studying
 
@@ -39,3 +43,7 @@ This folder collects coaches and coaching systems worth studying for powerliftin
   - A classic powerlifting framework centered on structured repeated practice and competition specificity.
   - Useful when you want a well-known high-volume strength method to compare against modern autoregulation.
   - Source: https://sheikogold.com/
+- Westside coaching pathway
+  - A formal training and education pathway built around the Conjugate Method.
+  - Useful when you want a structured system that explains the method instead of just the workouts.
+  - Source: https://www.westsidebarbell.com/

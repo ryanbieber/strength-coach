@@ -20,6 +20,14 @@ This folder collects methods worth studying for general strength programming.
   - Adjust training when the athlete’s technique, readiness, or schedule changes.
   - Good when the athlete needs more flexibility than a fixed template can provide.
   - Source: https://www.thestrengthathlete.com/blog/roadblocks-to-ai
+- Easy Strength style minimalism
+  - Pick a few lifts, keep them fresh, and never live at a grind.
+  - Good when the athlete needs sustainable progress with low systemic fatigue.
+  - Source: https://danjohnuniversity.com/essays/even-easier-strength
+- Grease the Groove practice
+  - Use submaximal practice sets spread across time to build skill and capacity without fatigue.
+  - Good when technical quality and frequent exposure matter more than hard sets.
+  - Source: https://www.strongfirst.com/jump/
 
 ## Also Worth Studying
 
@@ -35,3 +43,7 @@ This folder collects methods worth studying for general strength programming.
   - Use externally focused cues that help the lifter move better without overthinking positions.
   - Good when skill acquisition and bar path are the main bottlenecks.
   - Source: https://www.thestrengthathlete.com/blog/external-cues
+- Low-noise resilience training
+  - Train hard enough to progress, but keep the plan simple enough that recovery and consistency win.
+  - Good when the athlete needs durability, not novelty.
+  - Source: https://www.strongfirst.com/about/pavel-tsatsouline/

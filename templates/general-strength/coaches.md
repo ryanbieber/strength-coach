@@ -20,6 +20,14 @@ This folder collects coaches and coaching systems worth studying for general str
   - Powerlifting coach with a broad evidence-based strength perspective and useful crossover into general strength.
   - Useful when you want an athlete-centered coach who talks clearly about volume, cues, and progression.
   - Source: https://www.thestrengthathlete.com/bryce-lewis/
+- Pavel Tsatsouline / StrongFirst
+  - Founder of StrongFirst and a major voice in strength training built around low noise, high repeatability, and resilience.
+  - Useful when you want a general strength lens that favors skillful, repeatable practice.
+  - Source: https://www.strongfirst.com/about/pavel-tsatsouline/
+- Dan John / Dan John University
+  - Strength coach and author known for simple, repeatable training structures and long-term sustainability.
+  - Useful when you want a minimalist strength framework that still produces results.
+  - Source: https://danjohnuniversity.com/essays/even-easier-strength
 
 ## Also Worth Studying
 
@@ -35,3 +43,7 @@ This folder collects coaches and coaching systems worth studying for general str
   - Responsive coaching with custom cycles, weekly check-ins, and feedback loops.
   - Useful when general strength needs to be individualized instead of purely template-driven.
   - Source: https://www.thestrengthathlete.com/coaches
+- StrongFirst coaches
+  - Instructors and coaches specializing in barbell, kettlebell, and bodyweight strength education.
+  - Useful when you want a school-of-strength approach rather than a pure program catalog.
+  - Source: https://www.strongfirst.com/about/team/

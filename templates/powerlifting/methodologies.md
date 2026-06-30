@@ -20,6 +20,10 @@ This folder collects methods worth studying for powerlifting programming.
   - Reduce volume, keep the competition lifts central, and practice attempts or heavy singles.
   - Good when the target date is close.
   - Source: https://www.barbellmedicine.com/strength-and-conditioning-programs/
+- Conjugate / Westside rotation
+  - Rotate max-effort and dynamic-effort work while keeping the main competition pattern in the broader system.
+  - Good when the athlete responds well to variation and focused weak-point work.
+  - Source: https://www.westsidebarbell.com/
 - External cueing
   - Use cues that direct force outward rather than over-focusing on body parts.
   - Good when you need better motor learning and cleaner technique.
@@ -43,3 +47,7 @@ This folder collects methods worth studying for powerlifting programming.
   - Use meet-day decision-making and taper structure to preserve readiness.
   - Good when the athlete is close to competition and the last few percent matter.
   - Source: https://www.thestrengthathlete.com/blog/understanding-the-taper
+- Max-effort selection
+  - Choose variations that expose weak points without drifting too far from the competition lifts.
+  - Good when you need a heavy lift that still transfers to the meet.
+  - Source: https://www.westsidebarbell.com/

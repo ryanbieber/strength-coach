@@ -12,6 +12,10 @@ This folder collects coaches and coaching systems worth studying for bodybuildin
   - Evidence-based prep and physique coach with strong natural bodybuilding and powerlifting credentials.
   - Useful when you want a coach with both contest-prep and performance background.
   - Source: https://biolayne.com/about/
+- Hany Rambod / FST-7
+  - Championship bodybuilding coach known for FST-7 and high-level physique preparation.
+  - Useful when you want a method-heavy bodybuilding lens with clear pump and specialization elements.
+  - Source: https://www.hanyrambod.com/
 - John Meadows / Mountain Dog Diet
   - IFBB Pro bodybuilder and coach whose work centered on hard training, exercise selection, and body-part specialization.
   - Useful when you want a classic bodybuilding lens with clear phase structure and training variety.
@@ -35,3 +39,7 @@ This folder collects coaches and coaching systems worth studying for bodybuildin
   - Coaches and educators centered on natural bodybuilding and sustainable long-term progress.
   - Useful when the athlete wants a structured physique approach with realistic off-season and prep phases.
   - Source: https://www.3dmusclejourney.com/
+- Hany Rambod coaching team
+  - High-end contest-prep and physique coaching built around the FST-7 system.
+  - Useful when the athlete wants a bodybuilding system with a very distinct training style.
+  - Source: https://www.hanyrambod.com/coaching/
