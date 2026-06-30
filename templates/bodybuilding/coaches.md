@@ -8,10 +8,14 @@ This folder collects coaches and coaching systems worth studying for bodybuildin
   - Science-based bodybuilding coaching focused on sustainable progress and long-term career management.
   - Useful when you want a contest-prep aware, evidence-based bodybuilding lens.
   - Source: https://www.3dmusclejourney.com/about
-- Mike Israetel / RP Strength
-  - Founder of RP Strength and a major voice in hypertrophy training and volume management.
-  - Useful when you want volume landmarks and structured physique programming.
-  - Source: https://renaissanceperiodization.com/
+- Layne Norton / BioLayne
+  - Evidence-based prep and physique coach with strong natural bodybuilding and powerlifting credentials.
+  - Useful when you want a coach with both contest-prep and performance background.
+  - Source: https://biolayne.com/about/
+- John Meadows / Mountain Dog Diet
+  - IFBB Pro bodybuilder and coach whose work centered on hard training, exercise selection, and body-part specialization.
+  - Useful when you want a classic bodybuilding lens with clear phase structure and training variety.
+  - Source: https://mountaindogdiet.com/john/john-meadows/
 - Barbell Medicine coaching team
   - Bodybuilding templates built around higher-volume training, exercise selection, and progression.
   - Useful when you want bodybuilding work that is still tightly programmed and evidence-based.
@@ -27,3 +31,7 @@ This folder collects coaches and coaching systems worth studying for bodybuildin
   - Coaching and diet infrastructure built around evidence-based physique development.
   - Useful when the athlete needs a body-composition-first bodybuilding framework.
   - Source: https://renaissanceperiodization.com/
+- 3D Muscle Journey team
+  - Coaches and educators centered on natural bodybuilding and sustainable long-term progress.
+  - Useful when the athlete wants a structured physique approach with realistic off-season and prep phases.
+  - Source: https://www.3dmusclejourney.com/

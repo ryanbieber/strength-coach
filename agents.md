@@ -10,6 +10,7 @@ This skill is self-contained.
 - Prefer local template matching and blending over live web lookup.
 - Keep `README.md` in sync with user-facing coaching rules, especially distance units, RPE guidance, and example outputs.
 - Keep `templates/<archetype>/{programs,coaches,methodologies}.md` in sync with the external examples that are worth studying or citing in user-facing answers.
+- Do not cite Mike Israetel by name in the corpus; use RP Strength as the organization-level reference instead.
 
 ## Read order
 1. `SKILL.md`
