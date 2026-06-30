@@ -16,6 +16,10 @@ This folder collects coaches and coaching systems worth studying for general str
   - Founder of SBS, with a strong focus on strength programming for beginner, intermediate, and advanced lifters.
   - Useful when you want evidence-based general strength programming and clear progression.
   - Source: https://www.strongerbyscience.com/complete-strength-training-guide/
+- Bryce Lewis / The Strength Athlete
+  - Powerlifting coach with a broad evidence-based strength perspective and useful crossover into general strength.
+  - Useful when you want an athlete-centered coach who talks clearly about volume, cues, and progression.
+  - Source: https://www.thestrengthathlete.com/bryce-lewis/
 
 ## Also Worth Studying
 
@@ -27,3 +31,7 @@ This folder collects coaches and coaching systems worth studying for general str
   - A systemized coaching environment centered on barbell basics and novice progression.
   - Useful when you want simple, low-noise coaching for new lifters.
   - Source: https://startingstrength.com/
+- The Strength Athlete coaching team
+  - Responsive coaching with custom cycles, weekly check-ins, and feedback loops.
+  - Useful when general strength needs to be individualized instead of purely template-driven.
+  - Source: https://www.thestrengthathlete.com/coaches

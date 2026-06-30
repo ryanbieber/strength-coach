@@ -20,6 +20,14 @@ This folder collects methods worth studying for strongman programming.
   - Keep the implement and event order stable as the show approaches and cut accessory noise.
   - Good when the athlete needs peak specificity.
   - Source: https://www.barbellmedicine.com/strength-and-conditioning-programs/
+- Yearly planning
+  - Build the block by looking at the whole season, not just the next week.
+  - Good when the athlete needs to place off-season, peak, and contest prep work in the right order.
+  - Source: https://www.jtsstrength.com/yearly-planning-for-strongman/
+- Strongman as building, not testing
+  - Keep training focused on preparation and event skill rather than maxing out every session.
+  - Good when the athlete needs better competition results rather than gym lifts.
+  - Source: https://www.jtsstrength.com/strongman-training-and-why-its-not-for-athletes/
 
 ## Also Worth Studying
 
@@ -31,3 +39,7 @@ This folder collects methods worth studying for strongman programming.
   - Blend barbell strength, event work, and work capacity in one block.
   - Good when the athlete needs more general conditioning without losing event specificity.
   - Source: https://www.barbellmedicine.com/shop/training-templates/strength/strongman-template/
+- Strongman-specific movement practice
+  - Treat farmers, carries, and foundational events as primary skill work.
+  - Good when the athlete needs better event execution rather than generic strength.
+  - Source: https://www.jtsstrength.com/3-movements-to-make-you-a-strong-man-or-woman/

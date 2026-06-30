@@ -16,6 +16,10 @@ This folder collects methods worth studying for general strength programming.
   - Keep the main work highly efficient and reduce unnecessary volume when time is limited.
   - Good when adherence and schedule are the main constraints.
   - Source: https://www.strongerbyscience.com/training-for-time-poor/
+- General strength with athlete feedback
+  - Adjust training when the athlete’s technique, readiness, or schedule changes.
+  - Good when the athlete needs more flexibility than a fixed template can provide.
+  - Source: https://www.thestrengthathlete.com/blog/roadblocks-to-ai
 
 ## Also Worth Studying
 
@@ -27,3 +31,7 @@ This folder collects methods worth studying for general strength programming.
   - Keep simple set and rep schemes repeatable enough to track progress while still driving adaptation.
   - Good when the athlete needs more work than novice linear progression but not a complex peak.
   - Source: https://startingstrength.com/article/5_ways_to_5_x_5
+- Simple technique cueing
+  - Use externally focused cues that help the lifter move better without overthinking positions.
+  - Good when skill acquisition and bar path are the main bottlenecks.
+  - Source: https://www.thestrengthathlete.com/blog/external-cues

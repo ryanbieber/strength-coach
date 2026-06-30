@@ -16,6 +16,14 @@ This folder collects methods worth studying for bodybuilding and hypertrophy pro
   - Use phases that preserve muscle, manage fatigue, and keep long-term career progress in mind.
   - Good when the athlete wants repeatable growth rather than a one-off peak.
   - Source: https://www.3dmusclejourney.com/blog/the-default-diet
+- Floating splits and diet-phase training changes
+  - Adjust split structure and volume to match how hard the diet or massing phase is hitting recovery.
+  - Good when the athlete needs the program to change with body composition demands.
+  - Source: https://rpstrength.com/blogs/video-guides/dr-mikes-exact-training-split-to-get-to-6-body-fat
+- Pure bodybuilding specialization
+  - Use bodypart or hypertrophy-specialized splits when the goal is maximal muscle gain.
+  - Good when strength is secondary to physique development.
+  - Source: https://jeffnippard.com/products/the-pure-bodybuilding-program
 
 ## Also Worth Studying
 
@@ -27,3 +35,7 @@ This folder collects methods worth studying for bodybuilding and hypertrophy pro
   - Use a body-part split when the athlete needs higher local volume and clearer recovery windows.
   - Good when a more traditional bodybuilding distribution fits the schedule.
   - Source: https://www.barbellmedicine.com/shop/training-templates/hypertrophy/bodybuilding-template-bundle/
+- Program bundles with multiple split options
+  - Give the athlete multiple weekly layouts so they can pick the best split for their life and recovery.
+  - Good when flexibility matters as much as the training content.
+  - Source: https://jeffnippard.com/products/the-pure-bodybuilding-program-bundle

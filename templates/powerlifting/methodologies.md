@@ -20,6 +20,14 @@ This folder collects methods worth studying for powerlifting programming.
   - Reduce volume, keep the competition lifts central, and practice attempts or heavy singles.
   - Good when the target date is close.
   - Source: https://www.barbellmedicine.com/strength-and-conditioning-programs/
+- External cueing
+  - Use cues that direct force outward rather than over-focusing on body parts.
+  - Good when you need better motor learning and cleaner technique.
+  - Source: https://www.thestrengthathlete.com/blog/external-cues
+- Intra-session volume building
+  - Add volume with top sets, drop-down work, or ramping structures instead of just piling on more straight sets.
+  - Good when you need more work without wrecking quality.
+  - Source: https://www.thestrengthathlete.com/blog/intra-session-volume
 
 ## Also Worth Studying
 
@@ -31,3 +39,7 @@ This folder collects methods worth studying for powerlifting programming.
   - Review training blocks and adjust the next phase based on what the athlete actually tolerated.
   - Good when you want the program to react to performance instead of only to the calendar.
   - Source: https://store.reactivetrainingsystems.com/blogs/advanced-concepts/using-block-reviews
+- Attempt selection and taper management
+  - Use meet-day decision-making and taper structure to preserve readiness.
+  - Good when the athlete is close to competition and the last few percent matter.
+  - Source: https://www.thestrengthathlete.com/blog/understanding-the-taper
