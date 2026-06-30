@@ -215,6 +215,55 @@ const sourceCards = [
   },
 ];
 
+const knowledgeShelves = [
+  {
+    title: "Operating contract",
+    eyebrow: "How the skill behaves",
+    body: "The base skill instructions: intake order, programming rules, output format, substitutions, contest prep, form checks, and program review behavior.",
+    links: [
+      { label: "SKILL.md", href: `${repoBase}SKILL.md` },
+      { label: "README.md", href: `${repoBase}README.md` },
+      { label: "Agent config", href: `${repoBase}agents/openai.yaml` },
+    ],
+  },
+  {
+    title: "Reference files",
+    eyebrow: "Rules under the floor mats",
+    body: "General coaching rules and sport-specific reference knowledge the skill uses to stay grounded.",
+    links: [
+      { label: "Strength coach reference", href: `${repoBase}references/strength-coach-reference.md` },
+      { label: "Strongman", href: `${repoBase}references/strongman.md` },
+      { label: "Powerlifting", href: `${repoBase}references/powerlifting.md` },
+      { label: "Weightlifting", href: `${repoBase}references/weightlifting.md` },
+      { label: "Bodybuilding", href: `${repoBase}references/bodybuilding.md` },
+      { label: "General strength", href: `${repoBase}references/general-strength.md` },
+    ],
+  },
+  {
+    title: "Template library",
+    eyebrow: "Program racks",
+    body: "The archetype programs and methodology notes the skill blends instead of copying wholesale.",
+    links: [
+      { label: "Template index", href: `${repoBase}templates/index.md` },
+      { label: "Strongman templates", href: `${repoBase}templates/strongman/index.md` },
+      { label: "Powerlifting templates", href: `${repoBase}templates/powerlifting/index.md` },
+      { label: "Weightlifting templates", href: `${repoBase}templates/weightlifting/index.md` },
+      { label: "Bodybuilding templates", href: `${repoBase}templates/bodybuilding/index.md` },
+      { label: "General strength templates", href: `${repoBase}templates/general-strength/index.md` },
+    ],
+  },
+  {
+    title: "Add more knowledge",
+    eyebrow: "Open a PR",
+    body: "New coaching knowledge should be added as Markdown, linked from the relevant index, and submitted as a pull request.",
+    links: [
+      { label: "Open a pull request", href: "https://github.com/ryanbieber/strength-coach/compare" },
+      { label: "Browse references folder", href: "https://github.com/ryanbieber/strength-coach/tree/main/references" },
+      { label: "Browse templates folder", href: "https://github.com/ryanbieber/strength-coach/tree/main/templates" },
+    ],
+  },
+];
+
 const generatedPrograms = [
   {
     title: "12-week strongman rebuild",
@@ -508,6 +557,20 @@ function renderTemplates() {
   `);
 }
 
+function renderKnowledge() {
+  const container = document.getElementById("knowledge-grid");
+  renderCards(container, knowledgeShelves, (shelf) => `
+    <article class="knowledge-card">
+      <p class="knowledge-card__eyebrow">${escapeHtml(shelf.eyebrow)}</p>
+      <h3>${escapeHtml(shelf.title)}</h3>
+      <p>${escapeHtml(shelf.body)}</p>
+      <div class="knowledge-card__links">
+        ${shelf.links.map((link) => `<a href="${escapeHtml(link.href)}" target="_blank" rel="noreferrer">${escapeHtml(link.label)}</a>`).join("")}
+      </div>
+    </article>
+  `);
+}
+
 function renderGeneratedPrograms() {
   const container = document.getElementById("generated-programs-grid");
   renderCards(container, generatedPrograms, (program) => `
@@ -696,6 +759,7 @@ function renderAll() {
 function init() {
   renderHow();
   renderRules();
+  renderKnowledge();
   renderLanes();
   renderTemplates();
   renderGeneratedPrograms();
