@@ -215,6 +215,28 @@ const sourceCards = [
   },
 ];
 
+const generatedPrograms = [
+  {
+    title: "12-week strongman rebuild",
+    eyebrow: "Strongman · 3 days/week",
+    summary:
+      "Log press, deadlift, front squat, and farmer carry focused block with bench twice per week, back work supersetted into bench slots, and pump work capped at four exercise slots per session.",
+    generated: "2026-06-30",
+    constraints: [
+      "No heavy singles; heavy triples only",
+      "At most four exercise slots per session",
+      "Bench twice weekly with rows or pulldowns",
+      "Submaximal rebuild volume before heavier triples",
+    ],
+    split: [
+      "Day 1: Log priority, front squat, bench + row, lateral raises + curls",
+      "Day 2: Deadlift, farmer carries, posterior chain, optional pump",
+      "Day 3: Front squat priority, log volume, bench + pulldown, rear delts + triceps",
+    ],
+    download: "assets/generated-programs/12_week_strongman_program.xlsx",
+  },
+];
+
 const presetValues = {
   base: {
     sport: "general-strength",
@@ -486,6 +508,37 @@ function renderTemplates() {
   `);
 }
 
+function renderGeneratedPrograms() {
+  const container = document.getElementById("generated-programs-grid");
+  renderCards(container, generatedPrograms, (program) => `
+    <article class="generated-card">
+      <p class="generated-card__eyebrow">${escapeHtml(program.eyebrow)}</p>
+      <div class="generated-card__header">
+        <h3>${escapeHtml(program.title)}</h3>
+        <span class="pill">${escapeHtml(program.generated)}</span>
+      </div>
+      <p>${escapeHtml(program.summary)}</p>
+      <div class="generated-card__columns">
+        <section>
+          <strong>Constraints</strong>
+          <ul class="generated-card__list">
+            ${program.constraints.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}
+          </ul>
+        </section>
+        <section>
+          <strong>Weekly split</strong>
+          <ul class="generated-card__list">
+            ${program.split.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}
+          </ul>
+        </section>
+      </div>
+      <div class="generated-card__actions">
+        <a class="button button--primary" href="${escapeHtml(program.download)}" download>Download Excel</a>
+      </div>
+    </article>
+  `);
+}
+
 function renderSources() {
   const container = document.getElementById("source-grid");
   renderCards(container, sourceCards, (card) => `
@@ -645,6 +698,7 @@ function init() {
   renderRules();
   renderLanes();
   renderTemplates();
+  renderGeneratedPrograms();
   renderSources();
   bindPresets();
   readQuery();
