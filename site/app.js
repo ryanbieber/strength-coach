@@ -4,27 +4,27 @@ const howCards = [
   {
     number: "01",
     title: "Identify the job",
-    body: "The skill starts with the sport or goal, the timeline, the current limiter, the available equipment, and the recovery budget.",
+    body: "Sport, goal, timeline, limiter, equipment, recovery.",
   },
   {
     number: "02",
     title: "Choose the pattern",
-    body: "It picks the movement pattern first, then the exact lift or event variation, so the answer stays specific without getting locked to one implement too early.",
+    body: "Pattern first, implement second, exercise last.",
   },
   {
     number: "03",
     title: "Blend a template",
-    body: "The skill uses the template folders as archetypes. It blends them to the athlete instead of copying a block wholesale.",
+    body: "Use the templates as archetypes, not scripts.",
   },
   {
     number: "04",
     title: "Set the dose",
-    body: "It writes work as sets and reps with RPE, then uses volume and tonnage as simple ways to compare fatigue and progress.",
+    body: "Write sets, reps, RPE, and enough volume to recover from.",
   },
   {
     number: "05",
     title: "Peak on time",
-    body: "As the target gets closer, it trims unnecessary fatigue, keeps the main lift central, and raises specificity.",
+    body: "Closer to the date: less noise, more specificity.",
   },
 ];
 
@@ -32,32 +32,32 @@ const ruleCards = [
   {
     title: "Intake order",
     eyebrow: "Ask what matters",
-    body: "The skill asks for sport, goal, event date or window, training age, injury limits, equipment, weekly frequency, session length, sleep, fatigue management, eating, and best lifts when they change the plan.",
+    body: "Ask for the missing details that change the plan. Infer the rest.",
   },
   {
     title: "Pattern first",
     eyebrow: "Pick the lane",
-    body: "Choose the pattern before the exact lift: squat, bench, hinge, overhead, carry, loading, snatch, clean and jerk, or hypertrophy split.",
+    body: "Squat, press, hinge, carry, load, Olympic lift, or hypertrophy split before exercise selection.",
   },
   {
     title: "RPE and volume",
     eyebrow: "Load with intent",
-    body: "Most productive working sets live in RPE 7-9. Use RPE 6 for warmups, deloads, or technique work. Track tonnage when you want a simple proxy for volume versus intensity.",
+    body: "Most work lives at RPE 7-9. Use tonnage when volume needs a simple comparison.",
   },
   {
     title: "Peaking",
     eyebrow: "Less noise, more specificity",
-    body: "A peak usually means lower volume, higher intensity, and closer sport specificity. Cut accessories first and keep the main lift pattern in place.",
+    body: "Lower volume, higher specificity. Cut accessories before the main work.",
   },
   {
     title: "Substitutions",
     eyebrow: "Match the pattern",
-    body: "When equipment is limited, replace the movement pattern first, then the implement, and only then the exact exercise. Simulate strongman events by matching the implement, loading position, range of motion, path, grip, duration, and fatigue profile.",
+    body: "Match pattern, target, equipment demand, and fatigue cost.",
   },
   {
     title: "Form check and output",
     eyebrow: "Special cases",
-    body: "When the user uploads video, the skill assumes they want a form check. It calls out what looks good, what is off, the biggest fix, and confidence limits if the angle or quality is poor. Programs and workouts are written in Markdown with clear headings and bullets.",
+    body: "Video means form check. Programs stay in Markdown with clear headings and bullets.",
   },
 ];
 
@@ -66,56 +66,56 @@ const laneCards = [
     id: "general-strength",
     title: "General Strength",
     eyebrow: "Base building",
-    summary: "A simple off-season strength and work-capacity lane.",
+    summary: "Off-season strength and work capacity.",
     bestFor: ["Off-season", "transition blocks", "newer lifters", "balanced base work"],
     focus: ["Squat pattern", "hinge pattern", "upper push/pull", "carry and core"],
     defaultObjective: "base",
     source: `${repoBase}templates/general-strength/index.md`,
-    lead: "Keep the movements simple and repeatable. Moderate volume and submaximal loading do the job here.",
+    lead: "Simple movements. Moderate volume. Submaximal loading.",
   },
   {
     id: "powerlifting",
     title: "Powerlifting",
     eyebrow: "Competition lifts first",
-    summary: "Squat, bench, and deadlift stay at the center. Accessories exist to support the main lifts.",
+    summary: "Squat, bench, and deadlift stay central.",
     bestFor: ["Meet prep", "weak-point work", "repeatable progress", "specific readiness"],
     focus: ["Squat", "bench", "deadlift", "bracing and lockout"],
     defaultObjective: "peak",
     source: `${repoBase}templates/powerlifting/index.md`,
-    lead: "Keep the competition lifts close, use stable exercise choices, and use heavy work sparingly when it matters.",
+    lead: "Stable lifts, useful accessories, sparse heavy exposures.",
   },
   {
     id: "strongman",
     title: "Strongman",
     eyebrow: "Event work first",
-    summary: "Implements, carries, loading, medleys, and grip under fatigue.",
+    summary: "Implements, carries, loading, medleys, grip.",
     bestFor: ["Contest prep", "event rehearsal", "medley pacing", "implement-specific work"],
     focus: ["Event practice", "carries", "loading", "pressing implements"],
     defaultObjective: "contest-prep",
     source: `${repoBase}templates/strongman/index.md`,
-    lead: "Use the actual implement when possible. If not, choose the closest simulation by matching the task, not just the exercise name.",
+    lead: "Match the event, not just the exercise name.",
   },
   {
     id: "weightlifting",
     title: "Weightlifting",
     eyebrow: "Positions and speed",
-    summary: "Snatch and clean and jerk performance built on positions, timing, pulling power, and receiving strength.",
+    summary: "Positions, timing, speed, receiving strength.",
     bestFor: ["Skill blocks", "peaking", "high-frequency technical practice", "classic lift focus"],
     focus: ["Snatch", "clean and jerk", "pulls", "front squat", "overhead receiving"],
     defaultObjective: "peak",
     source: `${repoBase}templates/weightlifting/index.md`,
-    lead: "Keep the classic lifts fresh enough to stay fast and technical. Variations should improve positions, not add noise.",
+    lead: "Keep classic lifts fast. Variations fix positions.",
   },
   {
     id: "bodybuilding",
     title: "Bodybuilding",
     eyebrow: "Hypertrophy and fatigue control",
-    summary: "Targeted volume, exercise order, and joint-friendly execution drive the block.",
+    summary: "Targeted volume and joint-friendly execution.",
     bestFor: ["Massing", "weak-body-part emphasis", "prep blocks", "repeatable volume landmarks"],
     focus: ["Priority muscle groups", "exercise order", "volume landmarks", "lagging areas"],
     defaultObjective: "hypertrophy",
     source: `${repoBase}templates/bodybuilding/index.md`,
-    lead: "Use the least aggravating exercise that still loads the target muscle well and keep enough recovery to train hard again.",
+    lead: "Load the target hard without irritating the joints.",
   },
 ];
 
@@ -186,31 +186,31 @@ const sourceCards = [
   {
     eyebrow: "Core skill",
     title: "SKILL.md",
-    body: "The operating contract for the skill: what it is, how it should intake requests, and how it should answer.",
+    body: "The skill's operating contract.",
     href: `${repoBase}SKILL.md`,
   },
   {
     eyebrow: "User-facing summary",
     title: "README.md",
-    body: "A compact overview of the skill, its core behavior, and the knowledge corpus that feeds it.",
+    body: "The short repo overview.",
     href: `${repoBase}README.md`,
   },
   {
     eyebrow: "Reference rules",
     title: "strength-coach-reference.md",
-    body: "The intake checklist, pattern map, substitution logic, and output format that keep the coaching answers grounded.",
+    body: "Intake, patterns, substitutions, output.",
     href: `${repoBase}references/strength-coach-reference.md`,
   },
   {
     eyebrow: "Form check",
     title: "references/form-check/",
-    body: "The rubric and workflow used when the user uploads technique video and wants a form review instead of a program.",
+    body: "Technique review workflow.",
     href: `${repoBase}references/form-check/index.md`,
   },
   {
     eyebrow: "Template index",
     title: "templates/index.md",
-    body: "The top-level map for the template library, grouped by general strength, powerlifting, strongman, weightlifting, and bodybuilding.",
+    body: "The template library map.",
     href: `${repoBase}templates/index.md`,
   },
 ];
@@ -219,7 +219,7 @@ const knowledgeShelves = [
   {
     title: "Operating contract",
     eyebrow: "How the skill behaves",
-    body: "The base skill instructions: intake order, programming rules, output format, substitutions, contest prep, form checks, and program review behavior.",
+    body: "The skill contract and answer rules.",
     links: [
       { label: "SKILL.md", href: `${repoBase}SKILL.md` },
       { label: "README.md", href: `${repoBase}README.md` },
@@ -229,7 +229,7 @@ const knowledgeShelves = [
   {
     title: "Reference files",
     eyebrow: "Rules under the floor mats",
-    body: "General coaching rules and sport-specific reference knowledge the skill uses to stay grounded.",
+    body: "General rules and sport notes.",
     links: [
       { label: "Strength coach reference", href: `${repoBase}references/strength-coach-reference.md` },
       { label: "Strongman", href: `${repoBase}references/strongman.md` },
@@ -242,7 +242,7 @@ const knowledgeShelves = [
   {
     title: "Template library",
     eyebrow: "Program racks",
-    body: "The archetype programs and methodology notes the skill blends instead of copying wholesale.",
+    body: "Archetypes and methodology notes.",
     links: [
       { label: "Template index", href: `${repoBase}templates/index.md` },
       { label: "Strongman templates", href: `${repoBase}templates/strongman/index.md` },
@@ -255,7 +255,7 @@ const knowledgeShelves = [
   {
     title: "Add more knowledge",
     eyebrow: "Open a PR",
-    body: "New coaching knowledge should be added as Markdown, linked from the relevant index, and submitted as a pull request.",
+    body: "Add Markdown, link it, open a PR.",
     links: [
       { label: "Open a pull request", href: "https://github.com/ryanbieber/strength-coach/compare" },
       { label: "Browse references folder", href: "https://github.com/ryanbieber/strength-coach/tree/main/references" },
@@ -269,7 +269,7 @@ const generatedPrograms = [
     title: "12-week strongman rebuild",
     eyebrow: "Strongman · 3 days/week",
     summary:
-      "Log press, deadlift, front squat, and farmer carry focused block with bench twice per week, back work supersetted into bench slots, and pump work capped at four exercise slots per session.",
+      "Log press, deadlift, front squat, farmers, bench twice weekly, and capped pump work.",
     generated: "2026-06-30",
     constraints: [
       "No heavy singles; heavy triples only",
@@ -321,32 +321,32 @@ const laneMeta = {
   "general-strength": {
     pattern: "Squat pattern, hinge pattern, upper push/pull, carry and core.",
     nextQuestion: "What sport are you moving toward, if any?",
-    promptLead: "Use a balanced base-building block with moderate volume and repeatable exercises.",
-    rules: ["Keep the movements simple and repeatable.", "Use submaximal loading until the target becomes more specific."],
+    promptLead: "Balanced base work with repeatable exercises.",
+    rules: ["Simple and repeatable.", "Submaximal until the target sharpens."],
   },
   powerlifting: {
     pattern: "Squat, bench, deadlift, and weak-point support.",
     nextQuestion: "What is the meet date, and what are your current best lifts or proxy lifts?",
-    promptLead: "Keep the competition lifts central and only add accessories that support the main lifts.",
-    rules: ["Stay close to the competition lifts.", "Use occasional heavy exposures sparingly and on purpose."],
+    promptLead: "Competition lifts first; accessories support them.",
+    rules: ["Stay close to comp lifts.", "Heavy exposures stay sparse."],
   },
   strongman: {
     pattern: "Events, implements, carries, loading, medleys, and grip.",
     nextQuestion: "Which events or implements matter most, and what can you actually train with?",
-    promptLead: "Program the event itself first, then choose the closest simulation when the exact implement is missing.",
-    rules: ["Match the event's implement, loading position, range of motion, path, grip demand, duration, and fatigue profile.", "Practice event order and pacing."],
+    promptLead: "Event first; closest simulation second.",
+    rules: ["Match implement, path, grip, duration, fatigue.", "Practice order and pacing."],
   },
   weightlifting: {
     pattern: "Snatch, clean and jerk, pulls, front squats, and overhead receiving.",
     nextQuestion: "What is the target meet or test date, and how often can you practice the classic lifts?",
-    promptLead: "Keep positions, timing, speed, and receiving strength intact while you build the block.",
-    rules: ["Use frequency that keeps the lifts fresh.", "Variations should improve positions, not bury the classic lifts in noise."],
+    promptLead: "Protect positions, timing, speed, and receiving strength.",
+    rules: ["Keep lifts fresh.", "Variations must fix positions."],
   },
   bodybuilding: {
     pattern: "Priority muscle groups, exercise order, and repeatable volume landmarks.",
     nextQuestion: "Which body parts need the most attention, and which movements irritate joints or recovery?",
-    promptLead: "Use the least aggravating exercise that still loads the target muscle well and keep fatigue under control.",
-    rules: ["Let volume drive the block.", "Bias lagging areas while protecting recovery."],
+    promptLead: "Load the target muscle and manage fatigue.",
+    rules: ["Volume drives the block.", "Bias lagging areas."],
   },
 };
 
@@ -438,18 +438,18 @@ function suggestTemplateNames(sport, objective) {
 
 function generatePrompt(values, lane) {
   const lines = [
-    `Use the strength-coach skill to build a recommendation for a ${lane.title.toLowerCase()} block.`,
+    `Build a ${lane.title.toLowerCase()} recommendation with the strength-coach skill.`,
     `Sport: ${lane.title}.`,
     `Objective: ${labelForObjective(values.objective)}.`,
     `Timeline: ${values.timeline || "not provided"}.`,
     `Equipment: ${labelForEquipment(values.equipment)}.`,
-    `Training days per week: ${values.days || "not provided"}.`,
+    `Days/week: ${values.days || "not provided"}.`,
     `Session length: ${values.session ? `${values.session} minutes` : "not provided"}.`,
-    `Current best lifts or proxy lifts: ${values.bests || "not provided"}.`,
-    `Recovery, injuries, eating, or tolerance limits: ${values.limits || "not provided"}.`,
+    `Best or proxy lifts: ${values.bests || "not provided"}.`,
+    `Limits: ${values.limits || "not provided"}.`,
     `Extra notes: ${values.notes || "none"}.`,
-    "Follow the skill's intake order, pick the main movement pattern first, use sets x reps @ RPE, bias RPE 7-9 for most work, and keep peaking specific to the sport.",
-    "If a single missing detail would materially change the plan, ask that next question before writing the full answer.",
+    "Use pattern-first programming, sets x reps @ RPE, and mostly RPE 7-9 work.",
+    "Ask one next question only if it would materially change the plan.",
   ];
 
   return lines.join("\n");
@@ -546,7 +546,7 @@ function renderTemplates() {
     <article class="template-card">
       <p class="template-card__eyebrow">${escapeHtml(group.eyebrow)}</p>
       <h3>${escapeHtml(group.title)}</h3>
-      <p>${escapeHtml("A handful of representative archetypes the skill blends from.")}</p>
+      <p>${escapeHtml("Representative archetypes.")}</p>
       <ul class="template-card__list">
         ${group.items.map((item) => `<li><a href="${escapeHtml(linkHref(item.file))}" target="_blank" rel="noreferrer">${escapeHtml(item.name)}</a></li>`).join("")}
       </ul>

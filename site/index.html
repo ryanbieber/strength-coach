@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="A loud gym-floor GitHub Pages site for the strength-coach skill, its knowledge base, and contribution path.">
+  <meta name="description" content="A gym-floor map for the strength-coach skill, its references, templates, and contribution path.">
   <meta name="theme-color" content="#bf3b22">
   <meta property="og:title" content="Strength Coach Atlas">
-  <meta property="og:description" content="Explore the strength-coach skill, its rules, its knowledge vault, its templates, and how to add more knowledge by PR.">
+  <meta property="og:description" content="Explore the strength-coach skill, its references, templates, and contribution path.">
   <title>Strength Coach Atlas</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,7 +22,6 @@
       <nav class="topbar" aria-label="Primary">
         <a class="brand" href="#top">Strength Coach</a>
         <div class="topbar__links">
-          <a href="#base-skill">Base skill</a>
           <a href="#how">How it works</a>
           <a href="#knowledge">Knowledge</a>
           <a href="#lanes">Lanes</a>
@@ -38,27 +37,26 @@
           <p class="eyebrow">GitHub Pages lifting dungeon</p>
           <h1>Strength Coach</h1>
           <p class="lede">
-            This site turns the <code>strength-coach</code> skill into a chalky, plate-loaded map of what the skill does,
-            which knowledge it trains from, and where to add more coaching material.
+            A plate-loaded map of the <code>strength-coach</code> skill: how it thinks, what it reads, and where new coaching material belongs.
           </p>
 
           <p class="hero__note">
-            It is a map of the skill, not a replacement for it. The source of truth stays in
+            The source of truth stays in
             <a href="https://github.com/ryanbieber/strength-coach/blob/main/SKILL.md" target="_blank" rel="noreferrer">SKILL.md</a>,
-            the reference files, and the template library. New knowledge belongs in the repo through a pull request.
+            references, and templates.
           </p>
 
           <div class="hero__actions">
-            <a class="button button--primary" href="#knowledge">Open the knowledge vault</a>
-            <a class="button button--primary" href="#console">Interrogate the skill</a>
-            <a class="button" href="#contribute">Add knowledge by PR</a>
+            <a class="button button--primary" href="#knowledge">Open the vault</a>
+            <a class="button button--primary" href="#console">Build a brief</a>
+            <a class="button" href="#contribute">Add knowledge</a>
           </div>
 
           <ul class="hero__bullets" aria-label="Core rules">
-            <li>Ask for sport, goal, timeline, constraints, equipment, frequency, session length, recovery, eating, and best lifts when they matter.</li>
-            <li>Choose the main pattern first, then the exact lift or event variation.</li>
-            <li>Use <code>sets x reps @ RPE</code> and keep most work in the <code>RPE 7-9</code> band.</li>
-            <li>Use feet for carries unless the athlete asks for meters.</li>
+            <li>Ask only for details that change the plan.</li>
+            <li>Pick the pattern before the exercise.</li>
+            <li>Write work as <code>sets x reps @ RPE</code>.</li>
+            <li>Default carries to feet.</li>
           </ul>
 
           <div class="hero__meters" aria-label="Skill coverage">
@@ -72,7 +70,7 @@
             </div>
             <div>
               <strong>PR</strong>
-              <span>to add knowledge</span>
+              <span>knowledge path</span>
             </div>
           </div>
         </div>
@@ -93,7 +91,7 @@
           </div>
           <div class="hero__callout">
             <strong>Default bias:</strong>
-            <span>RPE 7-9 for productive work. RPE 10 is a sparse tool for peaking and specificity.</span>
+            <span>Most work lives at RPE 7-9. RPE 10 stays rare and planned.</span>
           </div>
           <div class="plate-stack" aria-hidden="true">
             <span></span>
@@ -106,46 +104,12 @@
     </header>
 
     <main>
-      <section class="section section--poster" id="base-skill">
-        <div class="section__heading">
-          <p class="eyebrow">Base skill</p>
-          <h2>What the coach does before writing a program</h2>
-          <p class="section__lede">
-            The skill turns a messy training request into a concrete coaching answer. It identifies the sport, goal, timeline,
-            movement pattern, limiting factor, equipment, and recovery budget before it picks lifts, volume, and intensity.
-          </p>
-        </div>
-        <div class="poster-grid">
-          <article class="poster-card">
-            <span>01</span>
-            <h3>Intake</h3>
-            <p>Ask only for details that materially change the plan: event date, training age, injuries, equipment, schedule, sleep, eating, and best lifts.</p>
-          </article>
-          <article class="poster-card">
-            <span>02</span>
-            <h3>Pattern</h3>
-            <p>Choose squat, bench, hinge, overhead, carry, loading, Olympic lift, or hypertrophy pattern before choosing the exact exercise.</p>
-          </article>
-          <article class="poster-card">
-            <span>03</span>
-            <h3>Dose</h3>
-            <p>Program with sets, reps, RPE, volume, and specificity. Heavier absolute loads cost more recovery even at the same RPE.</p>
-          </article>
-          <article class="poster-card">
-            <span>04</span>
-            <h3>Output</h3>
-            <p>Give the athlete a direct recommendation, alternates, why it fits, the next question, and assumptions that would change the answer.</p>
-          </article>
-        </div>
-      </section>
-
       <section class="section" id="how">
         <div class="section__heading">
           <p class="eyebrow">How it works</p>
-          <h2>Coach logic, stripped to five steps</h2>
+          <h2>Coach logic in five steps</h2>
           <p class="section__lede">
-            The skill reads like an experienced coach: it asks the questions that change the plan,
-            narrows to the correct pattern, then blends a template to the athlete instead of forcing the athlete into a template.
+            Intake, pattern, template, dose, peak. That is the whole loop.
           </p>
         </div>
         <div id="how-grid" class="card-grid"></div>
@@ -154,9 +118,9 @@
       <section class="section" id="rules">
         <div class="section__heading">
           <p class="eyebrow">Rulebook</p>
-          <h2>What the skill cares about</h2>
+          <h2>The short rulebook</h2>
           <p class="section__lede">
-            These are the rules that keep the answer specific, recoverable, and sport-aware.
+            Enough structure to stay specific without turning every answer into a lecture.
           </p>
         </div>
         <div id="rules-grid" class="card-grid card-grid--three"></div>
@@ -165,10 +129,9 @@
       <section class="section section--vault" id="knowledge">
         <div class="section__heading">
           <p class="eyebrow">Knowledge vault</p>
-          <h2>Open the files that feed the coach</h2>
+          <h2>Files that feed the coach</h2>
           <p class="section__lede">
-            The site links straight to the reference files and template folders. If a coaching method, event family, or replacement rule should exist here,
-            add it to the repo and open a pull request.
+            Reference rules, sport notes, templates, and the PR path.
           </p>
         </div>
         <div id="knowledge-grid" class="knowledge-grid"></div>
@@ -177,9 +140,9 @@
       <section class="section" id="lanes">
         <div class="section__heading">
           <p class="eyebrow">Sport lanes</p>
-          <h2>Where the skill points the bar</h2>
+          <h2>Where the bar points</h2>
           <p class="section__lede">
-            Pick the lane that matches the athlete's goal first. The site uses that to suggest the main pattern and the most likely template family.
+            Pick the athlete's lane first; the pattern and templates follow.
           </p>
         </div>
         <div id="lanes-grid" class="lane-grid"></div>
@@ -188,9 +151,9 @@
       <section class="section" id="templates">
         <div class="section__heading">
           <p class="eyebrow">Template rack</p>
-          <h2>The archives the skill blends from</h2>
+          <h2>Templates the skill blends</h2>
           <p class="section__lede">
-            These are the ingested archetypes and example programs behind the skill. The site links to the source files directly on GitHub.
+            Representative archetypes, linked straight to GitHub.
           </p>
         </div>
         <div id="templates-grid" class="template-grid"></div>
@@ -199,9 +162,9 @@
       <section class="section" id="generated-programs">
         <div class="section__heading">
           <p class="eyebrow">Generated programs</p>
-          <h2>Example outputs from real prompts</h2>
+          <h2>Example outputs</h2>
           <p class="section__lede">
-            Finished programs generated with the skill, kept as readable examples and downloadable training logs.
+            Finished programs kept as examples and downloadable logs.
           </p>
         </div>
         <div id="generated-programs-grid" class="generated-grid"></div>
@@ -210,9 +173,9 @@
       <section class="section" id="console">
         <div class="section__heading">
           <p class="eyebrow">Interrogate the skill</p>
-          <h2>Build a coach brief in one pass</h2>
+          <h2>Build a coach brief</h2>
           <p class="section__lede">
-            Fill in the fields that materially change the plan. The panel will suggest the lane, the likely template family, and the next question the skill would ask.
+            Fill the fields that change the plan. The panel gives the lane, template family, and next question.
           </p>
         </div>
 
@@ -328,9 +291,9 @@
       <section class="section" id="sources">
         <div class="section__heading">
           <p class="eyebrow">Source map</p>
-          <h2>Open the files the site is built from</h2>
+          <h2>Canonical files</h2>
           <p class="section__lede">
-            Use these links when you want the canonical text instead of the summary.
+            Use these when the summary is not enough.
           </p>
         </div>
         <div id="source-grid" class="source-grid"></div>
@@ -340,17 +303,16 @@
         <div class="contribute-panel">
           <div>
             <p class="eyebrow">Add knowledge</p>
-            <h2>Put new coaching material under the bar, then open a PR</h2>
+            <h2>Add coaching material by PR</h2>
             <p class="section__lede">
-              To add more knowledge, edit or add Markdown in <code>references/</code> or <code>templates/</code>,
-              keep the skill rules coherent, and open a pull request against <code>main</code>.
+              Add Markdown under <code>references/</code> or <code>templates/</code>, link it from an index, and open a pull request.
             </p>
           </div>
           <ol class="contribute-steps">
             <li>Fork or branch the repo.</li>
-            <li>Add the knowledge file, template, methodology, or example program.</li>
-            <li>Link it from the relevant index file so the site and skill corpus stay discoverable.</li>
-            <li>Open a PR explaining the coaching use case and any assumptions.</li>
+            <li>Add the file.</li>
+            <li>Link it from the right index.</li>
+            <li>Open a PR with the coaching use case.</li>
           </ol>
           <div class="contribute-actions">
             <a class="button button--primary" href="https://github.com/ryanbieber/strength-coach/compare" target="_blank" rel="noreferrer">Open a PR</a>
@@ -363,7 +325,7 @@
 
     <footer class="footer">
       <p>
-        Built from the <code>strength-coach</code> skill corpus. The canonical files live in the repo; this site is a visual front-end for them.
+        Built from the <code>strength-coach</code> corpus. Canonical files live in the repo.
       </p>
     </footer>
   </div>
