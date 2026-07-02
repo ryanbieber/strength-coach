@@ -1,6 +1,6 @@
 # Strength Coach Skill
 
-This repo powers the `strength-coach` skill. It helps turn a lifting goal, event timeline, and equipment setup into a concrete program or coaching recommendation.
+This repo powers the `strength-coach` skill. It turns a lifting goal, event timeline, and equipment setup into a concrete program or coaching recommendation.
 
 ## Core behavior
 
@@ -32,6 +32,13 @@ The site is intentionally gym-themed and includes:
 - a simple brief builder that turns a few inputs into a copy-ready coaching prompt
 
 For a local preview, serve the `site/` folder with any static server.
+
+## Agent Entry Points
+
+- [`SKILL.md`](./SKILL.md) is the main skill contract.
+- [`CLAUDE.md`](./CLAUDE.md) is the Claude-oriented handoff file.
+- [`AGENTS.md`](./AGENTS.md) is the generic agent handoff file.
+- [`agents.md`](./agents.md) is the older lowercase version kept for compatibility.
 
 ## Knowledge Corpus
 

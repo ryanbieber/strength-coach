@@ -1,5 +1,7 @@
 # Strength Coach Agent Notes
 
+This file is kept for compatibility. See [`AGENTS.md`](./AGENTS.md) for the current agent handoff.
+
 This skill is self-contained.
 
 ## Operating rule
