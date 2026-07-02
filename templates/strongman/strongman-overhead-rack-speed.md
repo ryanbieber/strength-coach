@@ -8,6 +8,10 @@
 - 3 to 4 day weeks.
 - Athletes whose overhead event starts in the rack and rewards quick position changes.
 
+## Phase Bias
+- Primary phase: SPP.
+- Use it after a broader overhead base is already in place.
+
 ## Weekly Shape
 - Day 1: log or axle press + upper back
 - Day 2: carry or loading + triceps
@@ -22,3 +26,4 @@
 ## Blend Notes
 - Keep the rack and clean positions as close to the contest as possible.
 - Reduce novelty once the event list is known.
+- Early weeks can build speed and clean efficiency; later weeks should rehearse the exact implement and rep demand.

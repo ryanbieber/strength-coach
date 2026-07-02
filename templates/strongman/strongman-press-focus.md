@@ -8,6 +8,10 @@
 - Press-limited athletes.
 - Show prep when overhead events matter most.
 
+## Phase Bias
+- Primary phase: SPP.
+- Best when the athlete already has a base and needs overhead-specific carryover.
+
 ## Weekly Shape
 - Day 1: event press
 - Day 2: upper back and triceps support
@@ -20,3 +24,4 @@
 
 ## Blend Notes
 - Reduce pressing novelty close to the show.
+- Start with enough support work to build the press, then trim toward exact implement practice as the contest approaches.

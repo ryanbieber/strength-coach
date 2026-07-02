@@ -8,6 +8,10 @@
 - 4 to 5 day weeks.
 - Athletes with yoke, stone, or carry-heavy contests.
 
+## Phase Bias
+- Primary phase: SPP to Peak.
+- Use it once the event list is known and the athlete needs direct carryover.
+
 ## Weekly Shape
 - Day 1: yoke + squat support
 - Day 2: stone loads + posterior chain
@@ -22,3 +26,4 @@
 
 ## Blend Notes
 - If stones are unavailable, use sandbags or awkward loads that match the lap and extension demand.
+- As the show gets close, let both the yoke and stone work match the contest more tightly and trim support work.

@@ -8,6 +8,10 @@
 - 4 day weeks.
 - Athletes who need more pull power and trunk stiffness.
 
+## Phase Bias
+- Primary phase: SPP.
+- Use this when the contest has a clear pull and carry demand that needs direct practice.
+
 ## Weekly Shape
 - Day 1: main deadlift event
 - Day 2: yoke or carry
@@ -21,3 +25,4 @@
 
 ## Blend Notes
 - Keep the yoke close enough to the contest that posture stays honest.
+- Start with enough support volume to build the pattern, then shift toward heavier event-specific exposures.

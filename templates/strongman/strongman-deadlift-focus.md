@@ -8,6 +8,10 @@
 - Pull-limited athletes.
 - Contest prep when the deadlift event is a major limiter.
 
+## Phase Bias
+- Primary phase: SPP.
+- Best after a base phase has already built the hinge and trunk.
+
 ## Weekly Shape
 - Day 1: main event pull
 - Day 2: posterior chain and trunk
@@ -20,3 +24,4 @@
 
 ## Blend Notes
 - Keep the implement or closest simulation as close as possible to the show.
+- Keep general posterior-chain work early, then let the block become more event-specific week to week.

@@ -8,6 +8,10 @@
 - 3 to 4 day weeks.
 - Stone-heavy contests or athletes who miss on the extension.
 
+## Phase Bias
+- Primary phase: SPP.
+- Best after the athlete already has enough general posterior-chain and trunk base.
+
 ## Weekly Shape
 - Day 1: stone loads
 - Day 2: squat and posterior chain
@@ -21,3 +25,4 @@
 
 ## Blend Notes
 - If stones are unavailable, use sandbags or odd objects that still force the lap.
+- Early weeks can use broader awkward objects, but later weeks should get as close to the actual stone demand as possible.

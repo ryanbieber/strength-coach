@@ -8,6 +8,10 @@
 - Medley-heavy contests.
 - Athletes who lose time in transitions or grip under fatigue.
 
+## Phase Bias
+- Primary phase: SPP to Peak.
+- Use it once the athlete already has enough base strength to survive repeated event runs.
+
 ## Weekly Shape
 - Day 1: medley runs
 - Day 2: carry and load support
@@ -20,3 +24,4 @@
 
 ## Blend Notes
 - Keep accessory work low so medley quality stays high.
+- The closer the show gets, the more the medley should match the exact order, spacing, and rest periods.

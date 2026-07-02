@@ -8,6 +8,10 @@
 - 3 to 4 day weeks.
 - Contests with a press and a carry in the same block or close together.
 
+## Phase Bias
+- Primary phase: SPP.
+- Best once general base work is done and the block needs to link two contest qualities together.
+
 ## Weekly Shape
 - Day 1: main press
 - Day 2: carry
@@ -21,3 +25,4 @@
 
 ## Blend Notes
 - If the exact press implement is missing, keep the clean or setup movement as close as possible.
+- The block should get less general and more exact as the contest gets closer.

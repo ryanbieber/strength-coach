@@ -8,6 +8,10 @@
 - 3 day weeks.
 - Contests with timed or rep-based events.
 
+## Phase Bias
+- Primary phase: SPP to Peak.
+- Use it once the event standard, time cap, or rep target is known.
+
 ## Weekly Shape
 - Day 1: repetition event practice
 - Day 2: support pressing or pulling
@@ -20,3 +24,4 @@
 
 ## Blend Notes
 - Keep rep targets and rest times close to the contest.
+- Early weeks can build repetition skill; final weeks should rehearse the exact contest rhythm.

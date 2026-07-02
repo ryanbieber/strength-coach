@@ -8,6 +8,10 @@
 - 3 day weeks.
 - Athletes who lose points on grip or pick-up speed.
 
+## Phase Bias
+- Primary phase: SPP.
+- Use it once the athlete has enough general base to handle direct farmers work.
+
 ## Weekly Shape
 - Day 1: farmers + upper back
 - Day 2: hinge + trunk
@@ -20,3 +24,4 @@
 
 ## Blend Notes
 - Match handle thickness, walk length, and total duration as closely as possible.
+- Treat early weeks as skill and capacity building, then let later weeks look more like the contest carry.

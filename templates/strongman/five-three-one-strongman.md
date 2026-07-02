@@ -8,6 +8,10 @@
 - Off-season or early prep.
 - Athletes who need long-term consistency.
 
+## Phase Bias
+- Primary phase: GPP.
+- Use this to build broad strength before switching to more event-specific work.
+
 ## Weekly Shape
 - Main lift or event on each day
 - Supplemental strongman event work
@@ -20,3 +24,4 @@
 
 ## Blend Notes
 - Swap the supplemental work to match the contest implements.
+- The main lifts stay general here, while event work stays present but secondary until an SPP block is needed.

@@ -8,6 +8,10 @@
 - 4 day weeks.
 - Athletes who need more axle work and loading practice.
 
+## Phase Bias
+- Primary phase: SPP.
+- Use it when the contest has axle and loading demands that need direct carryover.
+
 ## Weekly Shape
 - Day 1: axle press
 - Day 2: loading event
@@ -21,3 +25,4 @@
 
 ## Blend Notes
 - If the axle is missing, use a thick bar or fixed-implement press with the same rack challenge.
+- Early weeks can keep a little more support volume, then later weeks should bias the exact axle and loading setup.

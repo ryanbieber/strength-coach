@@ -8,6 +8,10 @@
 - 3 to 4 day weeks.
 - Pull-dominant contests or athletes with poor bracing under load.
 
+## Phase Bias
+- Primary phase: GPP to early SPP.
+- Good when the athlete needs more trunk and hinge base before heavy event exposure.
+
 ## Weekly Shape
 - Day 1: main pull
 - Day 2: trunk and upper back
@@ -21,3 +25,4 @@
 
 ## Blend Notes
 - Choose the closest implement that matches the pull path and loading feel.
+- Keep the block broader at first, then move toward event-specific pulls if the contest gets closer.

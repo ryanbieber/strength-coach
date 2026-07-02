@@ -8,6 +8,10 @@
 - 4 day weeks.
 - Athletes who are underbuilt on squats and carries.
 
+## Phase Bias
+- Primary phase: GPP.
+- Use this to raise general leg and posture capacity before more exact event work.
+
 ## Weekly Shape
 - Day 1: squat support
 - Day 2: carry event
@@ -21,3 +25,4 @@
 
 ## Blend Notes
 - Keep the carry implement close to the show when the contest is near.
+- If the contest is distant, let the carry stay more general and use the squat to build broad strength.

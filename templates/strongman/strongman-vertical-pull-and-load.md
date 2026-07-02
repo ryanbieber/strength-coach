@@ -8,6 +8,10 @@
 - 5 day weeks.
 - Contests with a pull event and a load or carry event.
 
+## Phase Bias
+- Primary phase: SPP.
+- Best once the athlete has enough base to handle frequent event practice.
+
 ## Weekly Shape
 - Day 1: main pull
 - Day 2: load event
@@ -22,3 +26,4 @@
 
 ## Blend Notes
 - If the exact event object is missing, keep the same loading path and fatigue cost.
+- Start with a little more support work, then bias the exact pull and load demands as the contest approaches.

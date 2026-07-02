@@ -8,6 +8,10 @@
 - 8 to 12 week strongman prep blocks.
 - Athletes who know the event list and want the block to peak on show day.
 
+## Phase Bias
+- Primary phase: Peak.
+- Use an SPP block before this one if the athlete still needs broader event buildup.
+
 ## Weekly Shape
 - Day 1: log press or overhead event + pressing support
 - Day 2: deadlift or frame/car deadlift + posterior chain
@@ -23,3 +27,4 @@
 ## Blend Notes
 - If the exact contest implement is unavailable, use the closest simulation that matches loading position, range of motion, grip, and fatigue.
 - Cut accessory volume before you cut event specificity.
+- Run the early weeks like SPP, then shift the final weeks toward exact event rehearsal and lower accessory fatigue.

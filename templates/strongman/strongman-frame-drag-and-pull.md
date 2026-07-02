@@ -8,6 +8,10 @@
 - 4 day weeks.
 - Contests with frame carries, frame deadlifts, or heavy awkward pulling.
 
+## Phase Bias
+- Primary phase: SPP.
+- Best when the athlete already has broad hinge strength and now needs event-specific setup.
+
 ## Weekly Shape
 - Day 1: frame deadlift or pull
 - Day 2: squat support and trunk
@@ -21,3 +25,4 @@
 
 ## Blend Notes
 - If the frame is missing, use trap bar, thick handles, or sled drags that keep the same feel.
+- Keep general support work early and narrow toward the exact frame or drag feel near the show.

@@ -8,6 +8,10 @@
 - 4 day weeks.
 - Off-season athletes building tolerance to awkward loads.
 
+## Phase Bias
+- Primary phase: GPP.
+- Use this to build tolerance to awkward objects before a more exact event block.
+
 ## Weekly Shape
 - Day 1: awkward object carry or load
 - Day 2: hinge and squat support
@@ -21,3 +25,4 @@
 
 ## Blend Notes
 - Move toward the contest implement once the event list is fixed.
+- Keep object variety broader here, then narrow to the contest implement during SPP.

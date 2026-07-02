@@ -8,6 +8,10 @@
 - 4 to 5 day weeks.
 - Contests with mixed object events.
 
+## Phase Bias
+- Primary phase: SPP to Peak.
+- Best once the event order and object sequence are mostly known.
+
 ## Weekly Shape
 - Day 1: carry medley
 - Day 2: load event
@@ -22,3 +26,4 @@
 
 ## Blend Notes
 - Match the order of the implement sequence when possible.
+- As the show gets closer, tighten the medley so the order, distances, and rest periods mirror the contest.

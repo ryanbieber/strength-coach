@@ -8,6 +8,10 @@
 - Off-season or early prep.
 - Athletes who need more base work before contest specificity.
 
+## Phase Bias
+- Primary phase: GPP.
+- Use this to build general strongman qualities before event-specific work.
+
 ## Weekly Shape
 - Day 1: overhead press + upper back
 - Day 2: deadlift or hinge + trunk
@@ -20,3 +24,4 @@
 
 ## Blend Notes
 - Transition into contest prep once the event list is known.
+- Push work capacity, trunk strength, and broad event exposure here, then narrow into SPP once the contest is clear.

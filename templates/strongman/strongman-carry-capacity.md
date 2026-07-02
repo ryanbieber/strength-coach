@@ -8,6 +8,10 @@
 - 5 day weeks.
 - Contests with multiple carry events or long event medleys.
 
+## Phase Bias
+- Primary phase: GPP.
+- Use it to build the base work capacity that later SPP and peak blocks can express.
+
 ## Weekly Shape
 - Day 1: heavy carry
 - Day 2: squat or hinge support
@@ -22,3 +26,4 @@
 
 ## Blend Notes
 - Keep distances and loads close to the show when the contest is near.
+- When the contest is still far away, keep the carry menu broader and use the block to build repeated effort capacity.
