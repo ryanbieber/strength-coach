@@ -8,6 +8,10 @@
 - Athletes who grow better with higher frequency.
 - Busy schedules where a few full-body sessions are easier to recover from.
 
+## Phase Bias
+- Primary phase: GPP.
+- Use it to build broad muscle and technical consistency before narrower specialization.
+
 ## Weekly Shape
 - Full body A
 - Full body B
@@ -20,3 +24,4 @@
 
 ## Blend Notes
 - Good default when you want body-part coverage without a long split.
+- This is base hypertrophy work with high recoverability.

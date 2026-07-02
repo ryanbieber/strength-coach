@@ -8,6 +8,10 @@
 - Off-season base building.
 - Athletes who need steady progress without high fatigue.
 
+## Phase Bias
+- Primary phase: GPP.
+- Use this for long-term general strength before a narrower specialization block.
+
 ## Weekly Shape
 - Day 1: squat focus
 - Day 2: press focus
@@ -21,3 +25,4 @@
 
 ## Blend Notes
 - Good when the athlete needs longevity and low decision fatigue.
+- This is broad, sustainable work rather than an SPP or peaking template.

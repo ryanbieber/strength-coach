@@ -8,6 +8,10 @@
 - Late novice to early intermediate lifters.
 - Off-season work when the athlete still responds to straightforward progression.
 
+## Phase Bias
+- Primary phase: GPP.
+- Use it to keep the lifts moving up before more specialized powerlifting structure is needed.
+
 ## What To Steal
 - Easy-to-track weekly progression.
 - Emphasis on basic lift quality.
@@ -15,3 +19,4 @@
 
 ## Blend Notes
 - Good when the athlete needs simplicity and steady overload.
+- This is broad strength work with some lift specificity, but not a meet-prep template.

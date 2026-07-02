@@ -25,11 +25,13 @@
 - These can be narrowed into powerlifting, strongman, weightlifting, or bodybuilding later.
 
 ## Library
+- `GPP`
 - [starting-strength-style.md](starting-strength-style.md)
 - [stronglifts-5x5.md](stronglifts-5x5.md)
+- [five-three-one-general-strength.md](five-three-one-general-strength.md)
+- `GPP to Early SPP`
 - [greyskull-lp.md](greyskull-lp.md)
 - [gzclp.md](gzclp.md)
-- [five-three-one-general-strength.md](five-three-one-general-strength.md)
 
 ## External Programs
 - [programs.md](programs.md)

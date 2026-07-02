@@ -8,6 +8,10 @@
 - Experienced lifters who recover well from volume.
 - Massing blocks where physique detail matters.
 
+## Phase Bias
+- Primary phase: GPP to SPP.
+- Use it when the athlete wants broad growth but with more targeted body-part emphasis.
+
 ## Weekly Shape
 - Chest and back
 - Shoulders and arms
@@ -21,3 +25,4 @@
 
 ## Blend Notes
 - Best when the athlete can handle a lot of hard sets without joint issues.
+- This is still growth-focused, but more specialized than a simple base split.

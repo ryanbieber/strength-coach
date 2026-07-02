@@ -8,6 +8,10 @@
 - Intermediate to advanced lifters.
 - Blocks leading into a meet or test.
 
+## Phase Bias
+- Primary phase: SPP.
+- Use it when the athlete needs a specific technical build with supportive squats and pulls.
+
 ## Weekly Shape
 - Snatch and clean and jerk
 - Pulls
@@ -20,3 +24,4 @@
 
 ## Blend Notes
 - Keep the classic lifts central and let the variations solve the limiter.
+- This is a specific build phase rather than a final taper.

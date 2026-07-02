@@ -8,6 +8,10 @@
 - Off-season hypertrophy blocks.
 - Athletes who like both heavy compounds and bodybuilding volume.
 
+## Phase Bias
+- Primary phase: GPP to SPP.
+- Use it when the athlete wants a broad off-season base with some heavier performance carryover.
+
 ## Weekly Shape
 - Strength upper
 - Strength lower
@@ -22,3 +26,4 @@
 
 ## Blend Notes
 - Keep the strength work controlled so it does not crush the hypertrophy sessions.
+- This is an off-season developmental block, not a contest-prep peak.

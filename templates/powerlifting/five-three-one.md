@@ -8,6 +8,10 @@
 - Sustainable progress.
 - Athletes who need a template they can keep running for a long time.
 
+## Phase Bias
+- Primary phase: GPP.
+- Use it for broad strength development before more meet-specific work.
+
 ## What To Steal
 - Training max setup.
 - Simple progression wave.
@@ -16,3 +20,4 @@
 ## Blend Notes
 - Good default when the goal is consistency.
 - Useful when you need flexibility for life stress.
+- This is a long-range base template, not a peaking block.

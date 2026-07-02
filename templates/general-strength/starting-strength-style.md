@@ -9,6 +9,10 @@
 - General strength base blocks.
 - Athletes who need a straightforward template with easy recovery management.
 
+## Phase Bias
+- Primary phase: GPP.
+- Use this to build a broad strength base before more specialized work exists.
+
 ## Weekly Shape
 - Day 1: squat, press, deadlift
 - Day 2: squat, bench, power clean or row
@@ -22,3 +26,4 @@
 ## Blend Notes
 - Good when the athlete is still learning the lifts.
 - Trim volume first if recovery drops.
+- This is early-phase work: simple lifts, simple progression, and very little sport-specific narrowing.

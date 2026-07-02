@@ -8,6 +8,10 @@
 - Advanced lifters with strong recovery and technique.
 - Peaking blocks where frequency and specificity matter.
 
+## Phase Bias
+- Primary phase: Peak.
+- Use it only when the athlete already has enough technical base to tolerate extreme specificity.
+
 ## Weekly Shape
 - Frequent snatch and clean and jerk exposures
 - Squat support work
@@ -20,3 +24,4 @@
 
 ## Blend Notes
 - Use carefully because recovery demands are high.
+- This is a late-stage specificity tool, not a broad developmental block.

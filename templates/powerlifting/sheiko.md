@@ -9,6 +9,10 @@
 - Work-capacity blocks.
 - Athletes who tolerate a lot of volume and repeatable practice.
 
+## Phase Bias
+- Primary phase: GPP to early SPP.
+- Use it to build specific lift skill and workload before a harder meet peak.
+
 ## What To Steal
 - Frequent squat, bench, and deadlift exposure.
 - Moderate loading with many quality sets.
@@ -17,3 +21,4 @@
 ## Blend Notes
 - Good base-building template before a meet peak.
 - Reduce volume first if recovery is limited.
+- Treat this as repeated-practice preparation before a narrower meet-specific block.

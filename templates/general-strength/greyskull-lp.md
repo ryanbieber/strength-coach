@@ -8,6 +8,10 @@
 - Novices transitioning out of a pure linear beginner phase.
 - Athletes who want a little more intensity without losing simplicity.
 
+## Phase Bias
+- Primary phase: GPP to early SPP.
+- Good when the athlete is still mostly building a base but wants a little more sport carryover.
+
 ## Weekly Shape
 - Day A: squat, press, chin or row
 - Day B: squat, bench, deadlift or hinge
@@ -19,3 +23,4 @@
 
 ## Blend Notes
 - Good bridge between beginner and intermediate training.
+- This works well as the handoff between pure base work and more specific training.

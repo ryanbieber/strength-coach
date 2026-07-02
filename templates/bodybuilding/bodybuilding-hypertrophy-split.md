@@ -9,6 +9,10 @@
 - Weak-body-part specialization.
 - Prep phases where the athlete needs to keep priority muscles trained without excessive fatigue.
 
+## Phase Bias
+- Primary phase: GPP to SPP.
+- Use it for broad hypertrophy with enough room to bias lagging body parts.
+
 ## Weekly Shape
 - Day 1: push priority
 - Day 2: pull priority
@@ -24,3 +28,4 @@
 ## Blend Notes
 - Use the least aggravating exercise that still loads the target muscle well.
 - As the show approaches, keep the priority muscles trained while reducing unnecessary fatigue.
+- In bodybuilding terms, this is broad developmental work that can be narrowed into a prep emphasis later.

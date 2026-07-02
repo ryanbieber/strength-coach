@@ -8,6 +8,10 @@
 - Intermediate lifters who need more structure and work capacity.
 - Athletes who benefit from phased volume progression.
 
+## Phase Bias
+- Primary phase: GPP to SPP.
+- Use it to build volume, then intensify toward a more specific block.
+
 ## What To Steal
 - Block structure.
 - Training-max-based loading.
@@ -16,3 +20,4 @@
 ## Blend Notes
 - Good for a longer block before a peak.
 - Keep the waves tied to the athlete's recovery and target date.
+- This is a bridge from broader base work into more focused powerlifting prep.

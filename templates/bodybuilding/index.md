@@ -21,12 +21,14 @@
 - As the show approaches, reduce unnecessary fatigue and keep the priority muscles trained.
 
 ## Library
-- [bodybuilding-hypertrophy-split.md](bodybuilding-hypertrophy-split.md)
+- `GPP`
 - [push-pull-legs.md](push-pull-legs.md)
 - [upper-lower-hypertrophy.md](upper-lower-hypertrophy.md)
+- [full-body-hypertrophy.md](full-body-hypertrophy.md)
+- `GPP to SPP`
+- [bodybuilding-hypertrophy-split.md](bodybuilding-hypertrophy-split.md)
 - [arnold-split.md](arnold-split.md)
 - [phat.md](phat.md)
-- [full-body-hypertrophy.md](full-body-hypertrophy.md)
 
 ## External Programs
 - [programs.md](programs.md)

@@ -29,8 +29,11 @@
 - [methodologies.md](methodologies.md)
 
 ## Library
-- [weightlifting-classic-cycle.md](weightlifting-classic-cycle.md)
-- [bulgarian-inspired.md](bulgarian-inspired.md)
+- `SPP`
 - [russian-classic-cycle.md](russian-classic-cycle.md)
 - [chinese-block-cycle.md](chinese-block-cycle.md)
+- `SPP to Peak`
+- [weightlifting-classic-cycle.md](weightlifting-classic-cycle.md)
+- `Peak`
+- [bulgarian-inspired.md](bulgarian-inspired.md)
 - [weightlifting-peak-block.md](weightlifting-peak-block.md)

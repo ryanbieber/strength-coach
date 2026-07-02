@@ -9,6 +9,10 @@
 - Peaking into a meet or test.
 - Athletes who need repeated technical exposures.
 
+## Phase Bias
+- Primary phase: SPP to Peak.
+- Use it when the classic lifts are already the center and the athlete needs repeated competition practice.
+
 ## Weekly Shape
 - Day 1: snatch + snatch variation + overhead squat or front squat
 - Day 2: clean and jerk + front squat + pull
@@ -23,3 +27,4 @@
 ## Blend Notes
 - Keep the classic lifts in the plan all the way through the peak.
 - Trim variations when the meet gets close.
+- This can start as a specific build block and finish as a peak when the variation count drops.

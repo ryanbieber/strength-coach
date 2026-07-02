@@ -8,6 +8,10 @@
 - Beginners and early intermediates.
 - Athletes who want a structured but adaptable linear template.
 
+## Phase Bias
+- Primary phase: GPP to early SPP.
+- Use it when the athlete still needs base building but also benefits from clearer lift tiers and weak-point work.
+
 ## Weekly Shape
 - T1: main lift for low reps and progressive loading
 - T2: secondary compound lift for moderate reps
@@ -20,3 +24,4 @@
 
 ## Blend Notes
 - Good when the athlete needs structure with some flexibility.
+- The tiered layout makes it a solid bridge from general base work into more directed training.

@@ -8,6 +8,10 @@
 - Intermediate lifters.
 - Blocks that need a predictable build toward a meet.
 
+## Phase Bias
+- Primary phase: SPP.
+- Use it when the athlete needs structured classic-lift preparation before the final peak.
+
 ## Weekly Shape
 - Snatch and clean and jerk exposures
 - Pulls and squats
@@ -20,3 +24,4 @@
 
 ## Blend Notes
 - Good middle-ground template between pure skill work and hard peaking.
+- This sits in the middle: more specific than base work, less sharp than the final pre-meet phase.
