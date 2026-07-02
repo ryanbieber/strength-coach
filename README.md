@@ -38,7 +38,6 @@ For a local preview, serve the `site/` folder with any static server.
 - [`SKILL.md`](./SKILL.md) is the main skill contract.
 - [`CLAUDE.md`](./CLAUDE.md) is the Claude-oriented handoff file.
 - [`AGENTS.md`](./AGENTS.md) is the generic agent handoff file.
-- [`agents.md`](./agents.md) is the older lowercase version kept for compatibility.
 
 ## Knowledge Corpus
 
